@@ -1,0 +1,82 @@
+﻿team,High press + Possession control,High press + Direct build-up,Mid block + Possession control,Mid block + Direct build-up,Low block + Possession control,Low block + Direct build-up
+1. Bundesliga | Bayer Leverkusen,0.3529,0.1176,0.1176,0.2647,0.0294,0.1176
+La Liga | Athletic Club,0.3684,0.1053,0.0263,0.2895,0.0526,0.1579
+La Liga | Atlético Madrid,0.1842,0.2632,0.0526,0.2895,0.0263,0.1842
+La Liga | Barcelona,0.5263,0.0,0.2895,0.0263,0.1316,0.0263
+La Liga | Celta Vigo,0.3421,0.0263,0.2105,0.1842,0.0526,0.1842
+La Liga | Eibar,0.1579,0.3421,0.0263,0.3684,0.0,0.1053
+La Liga | Espanyol,0.0526,0.2368,0.0526,0.2632,0.0,0.3947
+La Liga | Getafe,0.0526,0.1842,0.0526,0.4211,0.0,0.2895
+La Liga | Granada,0.0789,0.2105,0.0263,0.3158,0.0526,0.3158
+La Liga | Las Palmas,0.1579,0.0263,0.2105,0.0789,0.2105,0.3158
+La Liga | Levante UD,0.0789,0.1579,0.0263,0.1842,0.0,0.5526
+La Liga | Málaga,0.1316,0.2895,0.1316,0.1842,0.0,0.2632
+La Liga | RC Deportivo La Coruña,0.0526,0.1579,0.0789,0.2368,0.0263,0.4474
+La Liga | Rayo Vallecano,0.3684,0.2105,0.1053,0.0789,0.0263,0.2105
+La Liga | Real Betis,0.1316,0.1316,0.0263,0.1842,0.0263,0.5
+La Liga | Real Madrid,0.4211,0.0789,0.2105,0.1053,0.0526,0.1316
+La Liga | Real Sociedad,0.1842,0.1316,0.1053,0.2895,0.0789,0.2105
+La Liga | Sevilla,0.1842,0.0789,0.1579,0.2895,0.0263,0.2632
+La Liga | Sporting Gijón,0.0263,0.1316,0.0263,0.3421,0.0263,0.4474
+La Liga | Valencia,0.0789,0.1316,0.0789,0.2632,0.1053,0.3421
+La Liga | Villarreal,0.1316,0.0789,0.0526,0.2895,0.0263,0.4211
+Ligue 1 | AS Monaco,0.2105,0.2105,0.0789,0.2895,0.0263,0.1842
+Ligue 1 | Angers,0.0263,0.0789,0.0526,0.3947,0.0263,0.4211
+Ligue 1 | Bastia,0.027,0.1351,0.1081,0.2973,0.0,0.4324
+Ligue 1 | Bordeaux,0.2703,0.1081,0.0811,0.2432,0.027,0.2703
+Ligue 1 | Gazélec Ajaccio,0.1892,0.1081,0.0541,0.3784,0.0,0.2703
+Ligue 1 | Guingamp,0.0,0.1579,0.0789,0.2632,0.0,0.5
+Ligue 1 | Lille,0.3421,0.2368,0.0526,0.2105,0.0,0.1579
+Ligue 1 | Lorient,0.0789,0.0526,0.0526,0.2368,0.1053,0.4737
+Ligue 1 | Lyon,0.6053,0.0526,0.1579,0.0789,0.0263,0.0789
+Ligue 1 | Montpellier,0.1316,0.1316,0.0789,0.3421,0.0263,0.2895
+Ligue 1 | Nantes,0.1053,0.1842,0.1316,0.2895,0.0,0.2895
+Ligue 1 | OGC Nice,0.2632,0.0,0.2368,0.1316,0.1316,0.2368
+Ligue 1 | Olympique de Marseille,0.3421,0.1053,0.1842,0.3421,0.0,0.0263
+Ligue 1 | Paris Saint-Germain,0.5946,0.0,0.2162,0.0541,0.1351,0.0
+Ligue 1 | Rennes,0.0526,0.0789,0.0789,0.2632,0.0263,0.5
+Ligue 1 | Saint-Étienne,0.3243,0.2162,0.1081,0.1081,0.0,0.2432
+Ligue 1 | Stade Malherbe Caen,0.0263,0.2105,0.0,0.4474,0.0,0.3158
+Ligue 1 | Stade de Reims,0.0789,0.1579,0.0789,0.4474,0.0,0.2368
+Ligue 1 | Toulouse,0.0789,0.2632,0.0263,0.3947,0.0263,0.2105
+Ligue 1 | Troyes,0.0,0.0811,0.1351,0.1622,0.0541,0.5676
+Premier League | AFC Bournemouth,0.1579,0.1316,0.1053,0.2632,0.1053,0.2368
+Premier League | Arsenal,0.4474,0.0789,0.1316,0.1316,0.0526,0.1579
+Premier League | Aston Villa,0.0789,0.0789,0.0526,0.1579,0.0526,0.5789
+Premier League | Chelsea,0.2368,0.1579,0.1579,0.2105,0.1053,0.1316
+Premier League | Crystal Palace,0.0789,0.3421,0.0263,0.2895,0.0263,0.2368
+Premier League | Everton,0.0526,0.0789,0.2368,0.1579,0.0263,0.4474
+Premier League | Leicester City,0.0789,0.2368,0.0263,0.3421,0.0,0.3158
+Premier League | Liverpool,0.4211,0.0789,0.1316,0.1842,0.0789,0.1053
+Premier League | Manchester City,0.3947,0.1579,0.1579,0.1579,0.0,0.1316
+Premier League | Manchester United,0.5263,0.0789,0.0789,0.1842,0.0526,0.0789
+Premier League | Newcastle United,0.0789,0.1316,0.0526,0.2368,0.0263,0.4737
+Premier League | Norwich City,0.0263,0.1842,0.1053,0.3158,0.0263,0.3421
+Premier League | Southampton,0.1053,0.2368,0.1579,0.2368,0.0263,0.2368
+Premier League | Stoke City,0.1053,0.0526,0.0263,0.2895,0.1316,0.3947
+Premier League | Sunderland,0.0526,0.1579,0.0263,0.3158,0.0,0.4474
+Premier League | Swansea City,0.1053,0.1316,0.2105,0.1842,0.0789,0.2895
+Premier League | Tottenham Hotspur,0.4474,0.1842,0.1579,0.1316,0.0526,0.0263
+Premier League | Watford,0.1316,0.1316,0.0,0.4211,0.0263,0.2895
+Premier League | West Bromwich Albion,0.0,0.2632,0.0,0.2105,0.0,0.5263
+Premier League | West Ham United,0.1316,0.1316,0.1579,0.2105,0.0,0.3684
+Serie A | AC Milan,0.2895,0.3158,0.1053,0.1579,0.0263,0.1053
+Serie A | AS Roma,0.4211,0.1053,0.2105,0.0526,0.0263,0.1842
+Serie A | Atalanta,0.1053,0.1842,0.0526,0.3421,0.0263,0.2895
+Serie A | Bologna,0.0263,0.0789,0.0263,0.3684,0.0263,0.4737
+Serie A | Carpi,0.0,0.2105,0.0263,0.2632,0.0,0.5
+Serie A | Chievo,0.0526,0.1053,0.0526,0.3947,0.0263,0.3684
+Serie A | Empoli,0.1842,0.0526,0.2368,0.2632,0.0526,0.2105
+Serie A | Fiorentina,0.4737,0.0789,0.2632,0.0526,0.0,0.1316
+Serie A | Frosinone,0.0263,0.1579,0.0,0.4737,0.0,0.3421
+Serie A | Genoa,0.1579,0.1316,0.0526,0.3158,0.0526,0.2895
+Serie A | Hellas Verona,0.1053,0.1053,0.1316,0.2105,0.0,0.4474
+Serie A | Inter Milan,0.3421,0.0526,0.1842,0.0526,0.0789,0.2895
+Serie A | Juventus,0.5,0.1053,0.1053,0.2105,0.0,0.0789
+Serie A | Lazio,0.4737,0.1579,0.1579,0.1316,0.0263,0.0526
+Serie A | Napoli,0.5526,0.0263,0.2105,0.0263,0.1316,0.0526
+Serie A | Palermo,0.0263,0.1579,0.0263,0.2632,0.0,0.5263
+Serie A | Sampdoria,0.1842,0.0789,0.1579,0.2105,0.0263,0.3421
+Serie A | Sassuolo,0.1579,0.2105,0.1053,0.2895,0.0526,0.1842
+Serie A | Torino,0.0789,0.0526,0.0263,0.1579,0.0526,0.6316
+Serie A | Udinese,0.0526,0.1053,0.0263,0.2368,0.0789,0.5

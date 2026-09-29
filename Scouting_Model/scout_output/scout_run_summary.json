@@ -1,0 +1,37 @@
+{
+  "n_players": 320,
+  "n_teams": 20,
+  "identifiable_plans": [
+    "High press + Possession control",
+    "High press + Direct build-up",
+    "Mid block + Possession control",
+    "Mid block + Direct build-up",
+    "Low block + Possession control",
+    "Low block + Direct build-up"
+  ],
+  "not_identifiable": [],
+  "case_team": "Barcelona",
+  "case_plans": [
+    "High press + Possession control",
+    "Mid block + Possession control",
+    "High press + Direct build-up"
+  ],
+  "loto_significant": 0,
+  "loto_n": 6,
+  "loto_median_rho": 0.3978065815303108,
+  "noise_mean_spearman": 0.9364869592163692,
+  "noise_top_decile_kept": 0.9386833333333333,
+  "sens_median": {
+    "shrunk_vs_unshrunk": 0.971,
+    "raw_statistics": 0.704,
+    "strength_unadjusted_usage": 0.866,
+    "minutes_ge_1500_template": 0.969,
+    "drop_one_stat_min": 0.904,
+    "drop_one_stat_median": 0.982
+  },
+  "n_boot": 300,
+  "n_perm": 1000,
+  "n_noise": 200,
+  "n_perm_val": 1000,
+  "seed": 42
+}

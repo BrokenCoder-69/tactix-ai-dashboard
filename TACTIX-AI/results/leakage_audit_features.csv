@@ -1,0 +1,93 @@
+task,feature,known_before_outcome,leakage_risk,reason,single_feature_auc_test,action
+Pass completion — A (end-location features),pass_length_m,No — uses the END location,High,End location of a failed pass is where it was cut out or went out: partly the outcome itself.,0.612,Report feature set B; keep A only as the ablation
+Pass completion — A (end-location features),angle_sin,No — uses the END location,High,Direction computed from the end location.,0.508,Report feature set B; keep A only as the ablation
+Pass completion — A (end-location features),angle_cos,No — uses the END location,High,Direction computed from the end location.,0.72,Report feature set B; keep A only as the ablation
+Pass completion — A (end-location features),x,Yes — start location,Low,Where the action starts.,0.521,Keep
+Pass completion — A (end-location features),ch_Center,Yes — start y,Low,Channel of the pass origin.,0.502,Keep
+Pass completion — A (end-location features),ch_Left_Half_Space,Yes — start y,Low,Channel of the pass origin.,0.513,Keep
+Pass completion — A (end-location features),ch_Left_Wing,Yes — start y,Low,Channel of the pass origin.,0.506,Keep
+Pass completion — A (end-location features),ch_Right_Half_Space,Yes — start y,Low,Channel of the pass origin.,0.506,Keep
+Pass completion — A (end-location features),ch_Right_Wing,Yes — start y,Low,Channel of the pass origin.,0.515,Keep
+Pass completion — B (pre-pass features),x,Yes — start location,Low,Where the action starts.,0.521,Keep
+Pass completion — B (pre-pass features),y,Yes — start location,Low,Where the action starts.,0.509,Keep
+Pass completion — B (pre-pass features),under_pressure_f,Yes — at the moment of the pass,Low,Pressure flag at the time of the action.,0.538,Keep
+Pass completion — B (pre-pass features),ptype_Corner,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.51,Keep
+Pass completion — B (pre-pass features),ptype_Free_Kick,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.508,Keep
+Pass completion — B (pre-pass features),ptype_Goal_Kick,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.512,Keep
+Pass completion — B (pre-pass features),ptype_Interception,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.502,Keep
+Pass completion — B (pre-pass features),ptype_Kick_Off,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.503,Keep
+Pass completion — B (pre-pass features),ptype_Open_Play,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.548,Keep
+Pass completion — B (pre-pass features),ptype_Recovery,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.527,Keep
+Pass completion — B (pre-pass features),ptype_Throw_in,Yes — decided before the kick,Low,"Pass type (set piece, recovery, etc.).",0.509,Keep
+Pass completion — B (pre-pass features),height_Ground_Pass,At the kick,Medium,"Trajectory class is fixed when the ball is struck, but is recorded by the analyst after watching the pass.",0.742,Keep; state in thesis
+Pass completion — B (pre-pass features),height_High_Pass,At the kick,Medium,"Trajectory class is fixed when the ball is struck, but is recorded by the analyst after watching the pass.",0.718,Keep; state in thesis
+Pass completion — B (pre-pass features),height_Low_Pass,At the kick,Medium,"Trajectory class is fixed when the ball is struck, but is recorded by the analyst after watching the pass.",0.524,Keep; state in thesis
+Pass completion — B (pre-pass features),body_Drop_Kick,At the kick,Low,Body part used.,0.507,Keep
+Pass completion — B (pre-pass features),body_Head,At the kick,Low,Body part used.,0.524,Keep
+Pass completion — B (pre-pass features),body_Keeper_Arm,At the kick,Low,Body part used.,0.505,Keep
+Pass completion — B (pre-pass features),body_Left_Foot,At the kick,Low,Body part used.,0.506,Keep
+Pass completion — B (pre-pass features),body_No_Touch,At the kick,Low,Body part used.,0.5,Keep
+Pass completion — B (pre-pass features),body_Other,At the kick,Low,Body part used.,0.501,Keep
+Pass completion — B (pre-pass features),body_Right_Foot,At the kick,Low,Body part used.,0.549,Keep
+Pass completion — B (pre-pass features),body_Unknown,At the kick,Low,Body part used.,0.517,Keep
+Pass completion — B (pre-pass features),pp_From_Corner,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.516,Keep
+Pass completion — B (pre-pass features),pp_From_Counter,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.502,Keep
+Pass completion — B (pre-pass features),pp_From_Free_Kick,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.513,Keep
+Pass completion — B (pre-pass features),pp_From_Goal_Kick,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.526,Keep
+Pass completion — B (pre-pass features),pp_From_Keeper,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.502,Keep
+Pass completion — B (pre-pass features),pp_From_Kick_Off,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.503,Keep
+Pass completion — B (pre-pass features),pp_From_Throw_In,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.507,Keep
+Pass completion — B (pre-pass features),pp_Other,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.5,Keep
+Pass completion — B (pre-pass features),pp_Regular_Play,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.56,Keep
+Turnover (first-N window),start_x,Yes — possession start,Low,First own event of the possession.,0.551,Keep
+Turnover (first-N window),start_y,Yes — possession start,Low,First own event of the possession.,0.516,Keep
+Turnover (first-N window),win_last_x,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.529,Keep
+Turnover (first-N window),win_max_x,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.549,Keep
+Turnover (first-N window),win_x_gain,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.54,Keep
+Turnover (first-N window),win_passes,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.577,Keep
+Turnover (first-N window),win_pass_completed,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.583,Keep
+Turnover (first-N window),win_carries,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.512,Keep
+Turnover (first-N window),win_dribbles,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.503,Keep
+Turnover (first-N window),win_under_pressure,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.555,Keep
+Turnover (first-N window),win_opp_pressures,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.551,Keep
+Turnover (first-N window),win_duration,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.522,Keep
+Turnover (first-N window),pp_From_Corner,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.506,Keep
+Turnover (first-N window),pp_From_Counter,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.51,Keep
+Turnover (first-N window),pp_From_Free_Kick,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.514,Keep
+Turnover (first-N window),pp_From_Goal_Kick,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.503,Keep
+Turnover (first-N window),pp_From_Keeper,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.503,Keep
+Turnover (first-N window),pp_From_Kick_Off,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.505,Keep
+Turnover (first-N window),pp_From_Throw_In,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.52,Keep
+Turnover (first-N window),pp_Other,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.5,Keep
+Turnover (first-N window),pp_Regular_Play,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.529,Keep
+Turnover (first-N window),startch_Center,Yes — possession start,Low,Channel of the first own event.,0.503,Keep
+Turnover (first-N window),startch_Left_Half_Space,Yes — possession start,Low,Channel of the first own event.,0.507,Keep
+Turnover (first-N window),startch_Left_Wing,Yes — possession start,Low,Channel of the first own event.,0.502,Keep
+Turnover (first-N window),startch_Right_Half_Space,Yes — possession start,Low,Channel of the first own event.,0.504,Keep
+Turnover (first-N window),startch_Right_Wing,Yes — possession start,Low,Channel of the first own event.,0.516,Keep
+Dangerous attack (first-N window),start_x,Yes — possession start,Low,First own event of the possession.,0.594,Keep
+Dangerous attack (first-N window),start_y,Yes — possession start,Low,First own event of the possession.,0.51,Keep
+Dangerous attack (first-N window),win_last_x,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.618,Keep
+Dangerous attack (first-N window),win_max_x,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.609,Keep
+Dangerous attack (first-N window),win_x_gain,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.501,Keep
+Dangerous attack (first-N window),win_passes,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.511,Keep
+Dangerous attack (first-N window),win_pass_completed,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.502,Keep
+Dangerous attack (first-N window),win_carries,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.504,Keep
+Dangerous attack (first-N window),win_dribbles,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.506,Keep
+Dangerous attack (first-N window),win_under_pressure,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.517,Keep
+Dangerous attack (first-N window),win_opp_pressures,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.519,Keep
+Dangerous attack (first-N window),win_duration,Yes — first N events only,Low,Computed from events with seq < N; eligibility requires the outcome after the window.,0.511,Keep
+Dangerous attack (first-N window),pp_From_Corner,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.533,Keep
+Dangerous attack (first-N window),pp_From_Counter,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.52,Keep
+Dangerous attack (first-N window),pp_From_Free_Kick,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.509,Keep
+Dangerous attack (first-N window),pp_From_Goal_Kick,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.517,Keep
+Dangerous attack (first-N window),pp_From_Keeper,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.504,Keep
+Dangerous attack (first-N window),pp_From_Kick_Off,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.508,Keep
+Dangerous attack (first-N window),pp_From_Throw_In,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.519,Keep
+Dangerous attack (first-N window),pp_Other,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.5,Keep
+Dangerous attack (first-N window),pp_Regular_Play,Yes — possession start,Low,"Play pattern of the possession, known when it starts.",0.515,Keep
+Dangerous attack (first-N window),startch_Center,Yes — possession start,Low,Channel of the first own event.,0.527,Keep
+Dangerous attack (first-N window),startch_Left_Half_Space,Yes — possession start,Low,Channel of the first own event.,0.508,Keep
+Dangerous attack (first-N window),startch_Left_Wing,Yes — possession start,Low,Channel of the first own event.,0.502,Keep
+Dangerous attack (first-N window),startch_Right_Half_Space,Yes — possession start,Low,Channel of the first own event.,0.501,Keep
+Dangerous attack (first-N window),startch_Right_Wing,Yes — possession start,Low,Channel of the first own event.,0.518,Keep

@@ -1,0 +1,20 @@
+item,value
+Competition / season,La Liga 2015/2016
+Matches,380
+Teams,20
+Events,1295354
+Passes,365288
+Shots,9168
+  of which penalties,97
+Goals from shots,1014
+Own goals,29
+Players with at least one event,539
+Duplicate event ids,0
+Events with a location,1286172
+Invalid start coordinates (outside 120 x 80),9
+Invalid end coordinates (outside 120 x 80),17
+Observed x range,0.1 – 120.3
+Observed y range,0.1 – 80.4
+Injury Stoppage events,1232
+  attributed to a player,1232
+Substitutions recorded as 'Injury',147

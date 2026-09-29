@@ -1,0 +1,8 @@
+check,passed,evidence
+Train and test share no match (split by whole matches),True,computed
+Validation shares no match with train or test,True,computed
+Every test match is on or after the last training match,True,computed
+Logistic regression scales inside a Pipeline (fitted on train only),True,computed
+One-hot encoding learns no parameters from the test set,True,by construction (pd.get_dummies)
+Possession features use only the first N events,True,"by construction (§6.3, seq < N)"
+No match-level aggregate in any event / possession model,True,by construction (feature lists above)

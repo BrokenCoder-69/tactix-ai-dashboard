@@ -1,0 +1,295 @@
+league,team,opponent type,regular,suggested
+1. Bundesliga,Augsburg,possession-dominant,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Augsburg,balanced,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Augsburg,low-possession,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Bayer Leverkusen,possession-dominant,High press + Possession control,High press + Direct build-up
+1. Bundesliga,Bayer Leverkusen,balanced,High press + Possession control,High press + Direct build-up
+1. Bundesliga,Bayer Leverkusen,low-possession,High press + Possession control,High press + Possession control
+1. Bundesliga,Bayern Munich,possession-dominant,Low block + Possession control,Mid block + Possession control
+1. Bundesliga,Bayern Munich,balanced,Low block + Possession control,Low block + Possession control
+1. Bundesliga,Bayern Munich,low-possession,Low block + Possession control,Mid block + Possession control
+1. Bundesliga,Borussia Dortmund,possession-dominant,High press + Possession control,High press + Possession control
+1. Bundesliga,Borussia Dortmund,balanced,High press + Possession control,High press + Possession control
+1. Bundesliga,Borussia Dortmund,low-possession,High press + Possession control,High press + Possession control
+1. Bundesliga,Borussia Mönchengladbach,possession-dominant,Low block + Direct build-up,High press + Possession control
+1. Bundesliga,Borussia Mönchengladbach,balanced,Low block + Direct build-up,High press + Possession control
+1. Bundesliga,Borussia Mönchengladbach,low-possession,Low block + Direct build-up,High press + Possession control
+1. Bundesliga,Darmstadt 98,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Darmstadt 98,balanced,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Darmstadt 98,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Eintracht Frankfurt,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Eintracht Frankfurt,balanced,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Eintracht Frankfurt,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,FC Köln,possession-dominant,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,FC Köln,balanced,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,FC Köln,low-possession,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,FSV Mainz 05,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,FSV Mainz 05,balanced,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,FSV Mainz 05,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Hamburger SV,possession-dominant,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Hamburger SV,balanced,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Hamburger SV,low-possession,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Hannover 96,possession-dominant,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Hannover 96,balanced,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Hannover 96,low-possession,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Hertha Berlin,possession-dominant,High press + Possession control,High press + Possession control
+1. Bundesliga,Hertha Berlin,balanced,High press + Possession control,High press + Possession control
+1. Bundesliga,Hertha Berlin,low-possession,High press + Possession control,High press + Possession control
+1. Bundesliga,Hoffenheim,possession-dominant,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Hoffenheim,balanced,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Hoffenheim,low-possession,Mid block + Direct build-up,Mid block + Direct build-up
+1. Bundesliga,Ingolstadt,possession-dominant,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,Ingolstadt,balanced,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,Ingolstadt,low-possession,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,Schalke 04,possession-dominant,Low block + Direct build-up,Mid block + Possession control
+1. Bundesliga,Schalke 04,balanced,Low block + Direct build-up,Mid block + Possession control
+1. Bundesliga,Schalke 04,low-possession,Low block + Direct build-up,Mid block + Possession control
+1. Bundesliga,VfB Stuttgart,possession-dominant,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,VfB Stuttgart,balanced,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,VfB Stuttgart,low-possession,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,Werder Bremen,possession-dominant,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Werder Bremen,balanced,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Werder Bremen,low-possession,Low block + Direct build-up,Low block + Direct build-up
+1. Bundesliga,Wolfsburg,possession-dominant,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,Wolfsburg,balanced,High press + Direct build-up,High press + Direct build-up
+1. Bundesliga,Wolfsburg,low-possession,High press + Direct build-up,High press + Direct build-up
+La Liga,Athletic Club,possession-dominant,High press + Possession control,High press + Direct build-up
+La Liga,Athletic Club,balanced,High press + Possession control,High press + Direct build-up
+La Liga,Athletic Club,low-possession,High press + Possession control,High press + Possession control
+La Liga,Atlético Madrid,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Atlético Madrid,balanced,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Atlético Madrid,low-possession,Mid block + Direct build-up,High press + Possession control
+La Liga,Barcelona,possession-dominant,High press + Possession control,Mid block + Possession control
+La Liga,Barcelona,balanced,High press + Possession control,Low block + Possession control
+La Liga,Barcelona,low-possession,High press + Possession control,High press + Possession control
+La Liga,Celta Vigo,possession-dominant,High press + Possession control,Mid block + Possession control
+La Liga,Celta Vigo,balanced,High press + Possession control,High press + Possession control
+La Liga,Celta Vigo,low-possession,High press + Possession control,High press + Possession control
+La Liga,Eibar,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Eibar,balanced,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Eibar,low-possession,Mid block + Direct build-up,High press + Possession control
+La Liga,Espanyol,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+La Liga,Espanyol,balanced,Low block + Direct build-up,High press + Direct build-up
+La Liga,Espanyol,low-possession,Low block + Direct build-up,High press + Direct build-up
+La Liga,Getafe,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Getafe,balanced,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Getafe,low-possession,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Granada,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Granada,balanced,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Granada,low-possession,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Las Palmas,possession-dominant,Low block + Direct build-up,Mid block + Possession control
+La Liga,Las Palmas,balanced,Low block + Direct build-up,Low block + Possession control
+La Liga,Las Palmas,low-possession,Low block + Direct build-up,High press + Possession control
+La Liga,Levante UD,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+La Liga,Levante UD,balanced,Low block + Direct build-up,High press + Direct build-up
+La Liga,Levante UD,low-possession,Low block + Direct build-up,High press + Direct build-up
+La Liga,Málaga,possession-dominant,High press + Direct build-up,High press + Direct build-up
+La Liga,Málaga,balanced,High press + Direct build-up,High press + Direct build-up
+La Liga,Málaga,low-possession,High press + Direct build-up,High press + Possession control
+La Liga,RC Deportivo La Coruña,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+La Liga,RC Deportivo La Coruña,balanced,Low block + Direct build-up,High press + Direct build-up
+La Liga,RC Deportivo La Coruña,low-possession,Low block + Direct build-up,High press + Direct build-up
+La Liga,Rayo Vallecano,possession-dominant,High press + Possession control,High press + Direct build-up
+La Liga,Rayo Vallecano,balanced,High press + Possession control,High press + Direct build-up
+La Liga,Rayo Vallecano,low-possession,High press + Possession control,High press + Possession control
+La Liga,Real Betis,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+La Liga,Real Betis,balanced,Low block + Direct build-up,High press + Direct build-up
+La Liga,Real Betis,low-possession,Low block + Direct build-up,High press + Possession control
+La Liga,Real Madrid,possession-dominant,High press + Possession control,Mid block + Possession control
+La Liga,Real Madrid,balanced,High press + Possession control,High press + Possession control
+La Liga,Real Madrid,low-possession,High press + Possession control,High press + Possession control
+La Liga,Real Sociedad,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Real Sociedad,balanced,Mid block + Direct build-up,High press + Direct build-up
+La Liga,Real Sociedad,low-possession,Mid block + Direct build-up,High press + Possession control
+La Liga,Sevilla,possession-dominant,Mid block + Direct build-up,Mid block + Possession control
+La Liga,Sevilla,balanced,Mid block + Direct build-up,High press + Possession control
+La Liga,Sevilla,low-possession,Mid block + Direct build-up,High press + Possession control
+La Liga,Sporting Gijón,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+La Liga,Sporting Gijón,balanced,Low block + Direct build-up,High press + Direct build-up
+La Liga,Sporting Gijón,low-possession,Low block + Direct build-up,High press + Direct build-up
+La Liga,Valencia,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+La Liga,Valencia,balanced,Low block + Direct build-up,Low block + Possession control
+La Liga,Valencia,low-possession,Low block + Direct build-up,High press + Possession control
+La Liga,Villarreal,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+La Liga,Villarreal,balanced,Low block + Direct build-up,High press + Possession control
+La Liga,Villarreal,low-possession,Low block + Direct build-up,High press + Possession control
+Ligue 1,AS Monaco,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,AS Monaco,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,AS Monaco,low-possession,Mid block + Direct build-up,High press + Possession control
+Ligue 1,Angers,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Angers,balanced,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Angers,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Bastia,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Bastia,balanced,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Bastia,low-possession,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Bordeaux,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Bordeaux,balanced,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Bordeaux,low-possession,Low block + Direct build-up,High press + Possession control
+Ligue 1,Gazélec Ajaccio,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Gazélec Ajaccio,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Gazélec Ajaccio,low-possession,Mid block + Direct build-up,High press + Possession control
+Ligue 1,Guingamp,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Guingamp,balanced,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Guingamp,low-possession,Low block + Direct build-up,High press + Direct build-up
+Ligue 1,Lille,possession-dominant,High press + Possession control,High press + Direct build-up
+Ligue 1,Lille,balanced,High press + Possession control,High press + Direct build-up
+Ligue 1,Lille,low-possession,High press + Possession control,High press + Possession control
+Ligue 1,Lorient,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Lorient,balanced,Low block + Direct build-up,Low block + Possession control
+Ligue 1,Lorient,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Lyon,possession-dominant,High press + Possession control,High press + Possession control
+Ligue 1,Lyon,balanced,High press + Possession control,High press + Possession control
+Ligue 1,Lyon,low-possession,High press + Possession control,High press + Possession control
+Ligue 1,Montpellier,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Montpellier,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Montpellier,low-possession,Mid block + Direct build-up,High press + Possession control
+Ligue 1,Nantes,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Nantes,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Nantes,low-possession,Mid block + Direct build-up,High press + Possession control
+Ligue 1,OGC Nice,possession-dominant,High press + Possession control,High press + Possession control
+Ligue 1,OGC Nice,balanced,High press + Possession control,High press + Possession control
+Ligue 1,OGC Nice,low-possession,High press + Possession control,High press + Possession control
+Ligue 1,Olympique de Marseille,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Olympique de Marseille,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Olympique de Marseille,low-possession,Mid block + Direct build-up,High press + Possession control
+Ligue 1,Paris Saint-Germain,possession-dominant,High press + Possession control,High press + Possession control
+Ligue 1,Paris Saint-Germain,balanced,High press + Possession control,High press + Possession control
+Ligue 1,Paris Saint-Germain,low-possession,High press + Possession control,High press + Possession control
+Ligue 1,Rennes,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Rennes,balanced,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Rennes,low-possession,Low block + Direct build-up,Mid block + Possession control
+Ligue 1,Saint-Étienne,possession-dominant,High press + Possession control,High press + Direct build-up
+Ligue 1,Saint-Étienne,balanced,High press + Possession control,High press + Direct build-up
+Ligue 1,Saint-Étienne,low-possession,High press + Possession control,High press + Possession control
+Ligue 1,Stade Malherbe Caen,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Stade Malherbe Caen,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Stade Malherbe Caen,low-possession,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Stade de Reims,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Stade de Reims,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Stade de Reims,low-possession,Mid block + Direct build-up,High press + Possession control
+Ligue 1,Toulouse,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Toulouse,balanced,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Toulouse,low-possession,Mid block + Direct build-up,High press + Direct build-up
+Ligue 1,Troyes,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Troyes,balanced,Low block + Direct build-up,Mid block + Direct build-up
+Ligue 1,Troyes,low-possession,Low block + Direct build-up,Mid block + Possession control
+Premier League,AFC Bournemouth,possession-dominant,Mid block + Direct build-up,High press + Possession control
+Premier League,AFC Bournemouth,balanced,Mid block + Direct build-up,High press + Direct build-up
+Premier League,AFC Bournemouth,low-possession,Mid block + Direct build-up,High press + Possession control
+Premier League,Arsenal,possession-dominant,High press + Possession control,High press + Possession control
+Premier League,Arsenal,balanced,High press + Possession control,High press + Possession control
+Premier League,Arsenal,low-possession,High press + Possession control,High press + Possession control
+Premier League,Aston Villa,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Premier League,Aston Villa,balanced,Low block + Direct build-up,Mid block + Direct build-up
+Premier League,Aston Villa,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+Premier League,Chelsea,possession-dominant,High press + Possession control,High press + Possession control
+Premier League,Chelsea,balanced,High press + Possession control,High press + Direct build-up
+Premier League,Chelsea,low-possession,High press + Possession control,High press + Possession control
+Premier League,Crystal Palace,possession-dominant,High press + Direct build-up,High press + Possession control
+Premier League,Crystal Palace,balanced,High press + Direct build-up,High press + Direct build-up
+Premier League,Crystal Palace,low-possession,High press + Direct build-up,High press + Possession control
+Premier League,Everton,possession-dominant,Low block + Direct build-up,Mid block + Possession control
+Premier League,Everton,balanced,Low block + Direct build-up,Mid block + Possession control
+Premier League,Everton,low-possession,Low block + Direct build-up,Mid block + Possession control
+Premier League,Leicester City,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Premier League,Leicester City,balanced,Mid block + Direct build-up,High press + Direct build-up
+Premier League,Leicester City,low-possession,Mid block + Direct build-up,High press + Direct build-up
+Premier League,Liverpool,possession-dominant,High press + Possession control,High press + Possession control
+Premier League,Liverpool,balanced,High press + Possession control,High press + Possession control
+Premier League,Liverpool,low-possession,High press + Possession control,High press + Possession control
+Premier League,Manchester City,possession-dominant,High press + Possession control,High press + Possession control
+Premier League,Manchester City,balanced,High press + Possession control,High press + Direct build-up
+Premier League,Manchester City,low-possession,High press + Possession control,High press + Possession control
+Premier League,Manchester United,possession-dominant,High press + Possession control,High press + Possession control
+Premier League,Manchester United,balanced,High press + Possession control,High press + Possession control
+Premier League,Manchester United,low-possession,High press + Possession control,High press + Possession control
+Premier League,Newcastle United,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Premier League,Newcastle United,balanced,Low block + Direct build-up,High press + Direct build-up
+Premier League,Newcastle United,low-possession,Low block + Direct build-up,High press + Direct build-up
+Premier League,Norwich City,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Premier League,Norwich City,balanced,Low block + Direct build-up,High press + Direct build-up
+Premier League,Norwich City,low-possession,Low block + Direct build-up,Mid block + Possession control
+Premier League,Southampton,possession-dominant,Mid block + Direct build-up,High press + Possession control
+Premier League,Southampton,balanced,Mid block + Direct build-up,High press + Direct build-up
+Premier League,Southampton,low-possession,Mid block + Direct build-up,High press + Possession control
+Premier League,Stoke City,possession-dominant,Low block + Direct build-up,High press + Possession control
+Premier League,Stoke City,balanced,Low block + Direct build-up,Low block + Possession control
+Premier League,Stoke City,low-possession,Low block + Direct build-up,High press + Possession control
+Premier League,Sunderland,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Premier League,Sunderland,balanced,Low block + Direct build-up,High press + Direct build-up
+Premier League,Sunderland,low-possession,Low block + Direct build-up,High press + Direct build-up
+Premier League,Swansea City,possession-dominant,Low block + Direct build-up,High press + Possession control
+Premier League,Swansea City,balanced,Low block + Direct build-up,High press + Direct build-up
+Premier League,Swansea City,low-possession,Low block + Direct build-up,High press + Possession control
+Premier League,Tottenham Hotspur,possession-dominant,High press + Possession control,High press + Possession control
+Premier League,Tottenham Hotspur,balanced,High press + Possession control,High press + Direct build-up
+Premier League,Tottenham Hotspur,low-possession,High press + Possession control,High press + Possession control
+Premier League,Watford,possession-dominant,Mid block + Direct build-up,High press + Possession control
+Premier League,Watford,balanced,Mid block + Direct build-up,High press + Direct build-up
+Premier League,Watford,low-possession,Mid block + Direct build-up,High press + Possession control
+Premier League,West Bromwich Albion,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Premier League,West Bromwich Albion,balanced,Low block + Direct build-up,High press + Direct build-up
+Premier League,West Bromwich Albion,low-possession,Low block + Direct build-up,High press + Direct build-up
+Premier League,West Ham United,possession-dominant,Low block + Direct build-up,High press + Possession control
+Premier League,West Ham United,balanced,Low block + Direct build-up,High press + Direct build-up
+Premier League,West Ham United,low-possession,Low block + Direct build-up,High press + Possession control
+Serie A,AC Milan,possession-dominant,High press + Direct build-up,Mid block + Possession control
+Serie A,AC Milan,balanced,High press + Direct build-up,High press + Direct build-up
+Serie A,AC Milan,low-possession,High press + Direct build-up,High press + Possession control
+Serie A,AS Roma,possession-dominant,High press + Possession control,Mid block + Possession control
+Serie A,AS Roma,balanced,High press + Possession control,High press + Direct build-up
+Serie A,AS Roma,low-possession,High press + Possession control,High press + Possession control
+Serie A,Atalanta,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Atalanta,balanced,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Atalanta,low-possession,Mid block + Direct build-up,High press + Possession control
+Serie A,Bologna,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Serie A,Bologna,balanced,Low block + Direct build-up,Mid block + Direct build-up
+Serie A,Bologna,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+Serie A,Carpi,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Serie A,Carpi,balanced,Low block + Direct build-up,High press + Direct build-up
+Serie A,Carpi,low-possession,Low block + Direct build-up,High press + Direct build-up
+Serie A,Chievo,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Chievo,balanced,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Chievo,low-possession,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Empoli,possession-dominant,Mid block + Direct build-up,Mid block + Possession control
+Serie A,Empoli,balanced,Mid block + Direct build-up,High press + Possession control
+Serie A,Empoli,low-possession,Mid block + Direct build-up,High press + Possession control
+Serie A,Fiorentina,possession-dominant,High press + Possession control,Mid block + Possession control
+Serie A,Fiorentina,balanced,High press + Possession control,High press + Possession control
+Serie A,Fiorentina,low-possession,High press + Possession control,High press + Possession control
+Serie A,Frosinone,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Frosinone,balanced,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Frosinone,low-possession,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Genoa,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Genoa,balanced,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Genoa,low-possession,Mid block + Direct build-up,High press + Possession control
+Serie A,Hellas Verona,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Serie A,Hellas Verona,balanced,Low block + Direct build-up,High press + Direct build-up
+Serie A,Hellas Verona,low-possession,Low block + Direct build-up,High press + Direct build-up
+Serie A,Inter Milan,possession-dominant,High press + Possession control,Mid block + Possession control
+Serie A,Inter Milan,balanced,High press + Possession control,High press + Direct build-up
+Serie A,Inter Milan,low-possession,High press + Possession control,High press + Possession control
+Serie A,Juventus,possession-dominant,High press + Possession control,Mid block + Possession control
+Serie A,Juventus,balanced,High press + Possession control,High press + Direct build-up
+Serie A,Juventus,low-possession,High press + Possession control,High press + Possession control
+Serie A,Lazio,possession-dominant,High press + Possession control,Mid block + Possession control
+Serie A,Lazio,balanced,High press + Possession control,High press + Direct build-up
+Serie A,Lazio,low-possession,High press + Possession control,High press + Possession control
+Serie A,Napoli,possession-dominant,High press + Possession control,Mid block + Possession control
+Serie A,Napoli,balanced,High press + Possession control,High press + Possession control
+Serie A,Napoli,low-possession,High press + Possession control,High press + Possession control
+Serie A,Palermo,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Serie A,Palermo,balanced,Low block + Direct build-up,High press + Direct build-up
+Serie A,Palermo,low-possession,Low block + Direct build-up,High press + Direct build-up
+Serie A,Sampdoria,possession-dominant,Low block + Direct build-up,Mid block + Possession control
+Serie A,Sampdoria,balanced,Low block + Direct build-up,High press + Possession control
+Serie A,Sampdoria,low-possession,Low block + Direct build-up,High press + Possession control
+Serie A,Sassuolo,possession-dominant,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Sassuolo,balanced,Mid block + Direct build-up,High press + Direct build-up
+Serie A,Sassuolo,low-possession,Mid block + Direct build-up,High press + Possession control
+Serie A,Torino,possession-dominant,Low block + Direct build-up,Mid block + Direct build-up
+Serie A,Torino,balanced,Low block + Direct build-up,Mid block + Direct build-up
+Serie A,Torino,low-possession,Low block + Direct build-up,Mid block + Direct build-up
+Serie A,Udinese,possession-dominant,Low block + Direct build-up,High press + Direct build-up
+Serie A,Udinese,balanced,Low block + Direct build-up,High press + Direct build-up
+Serie A,Udinese,low-possession,Low block + Direct build-up,High press + Direct build-up

@@ -1,0 +1,7 @@
+﻿plan,shrunk_vs_unshrunk,raw_statistics,strength_unadjusted_usage,minutes_ge_1500_template,drop_one_stat_min,drop_one_stat_median
+High press + Possession control,0.9941,0.4373,0.892,0.9951,0.9405,0.9932
+High press + Direct build-up,0.9909,0.7207,0.9846,0.986,0.8705,0.9862
+Mid block + Possession control,0.9943,0.5132,0.9573,0.9886,0.875,0.9875
+Mid block + Direct build-up,0.993,0.5053,0.9357,0.9858,0.864,0.9915
+Low block + Possession control,0.9813,0.7127,0.97,0.9874,0.8222,0.9834
+Low block + Direct build-up,0.9778,0.3942,0.8314,0.9851,0.9051,0.9911

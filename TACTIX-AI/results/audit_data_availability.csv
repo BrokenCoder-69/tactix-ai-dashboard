@@ -1,0 +1,11 @@
+data type,available,note
+"On-ball event data with x, y",True,StatsBomb Open Data
+StatsBomb xG per shot,True,"Provider model, not re-estimated"
+"Cards, fouls, substitutions",True,Used for game state and numerical state
+"Tracking data (all players, every frame)",False,Absent
+"GPS / physical load (distance, speed)",False,Absent
+Player age / date of birth,False,Absent — no future-potential analysis possible
+Market value / transfer fee / salary,False,Absent — no cost analysis possible
+"Injury history (dates, type, days out)",False,Absent — injury-proneness cannot be validated
+In-match injury-related events,True,Injury stoppages / injury substitutions only
+"A second, independent data source",False,"Single source — the project is event-data-based, not multi-source"

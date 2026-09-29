@@ -1,0 +1,99 @@
+match_date,team,opponent,opp_group,suggested,regular,played,condition,resid,result,points,is_s,yd
+2015-12-11,Real Sociedad,Getafe,Low-possession,Low block + Possession control,Low block + Possession control,Low block + Possession control,suggested,1.064617845888323,D,1,True,1.0992417657323112
+2015-12-12,Real Betis,Las Palmas,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-0.8611386770723193,L,0,True,-0.46433605279503587
+2015-12-12,Sporting Gijón,Sevilla,Balanced,Low block + Central progression,Low block + Central progression,Low block + Central progression,suggested,-0.2262899813246452,L,0,True,-0.23253364970824994
+2015-12-12,RC Deportivo La Coruña,Barcelona,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,0.753943750758986,D,1,True,0.8024438409644243
+2015-12-13,Athletic Club,Atlético Madrid,Possession-dominant,Mid block + Central progression,Mid block + Central progression,Mid block + Central progression,suggested,1.4222505046629128,L,0,True,1.2940043703295887
+2015-12-19,Eibar,RC Deportivo La Coruña,Low-possession,High press + Possession control,High press + Wide progression,High press + Wide progression,regular,-0.0157255896123068,L,0,False,-0.8427121237195687
+2015-12-19,RC Deportivo La Coruña,Eibar,Low-possession,High press + Possession control,Low block + Wide progression,Low block + Wide progression,regular,0.0157255896123068,W,3,False,0.06422567981774518
+2015-12-20,Real Sociedad,Villarreal,Balanced,Low block + Possession control,Low block + Possession control,Low block + Possession control,suggested,-0.4415229470520673,L,0,True,-0.4068990272080792
+2015-12-20,Athletic Club,Levante UD,Low-possession,High press + Possession control,Mid block + Central progression,High press + Possession control,suggested,1.1251773643389953,W,3,True,0.9969312300056711
+2015-12-30,Barcelona,Real Betis,Balanced,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.0592127581168391,W,3,True,-0.20296883645898642
+2015-12-30,Eibar,Sporting Gijón,Low-possession,High press + Possession control,High press + Wide progression,High press + Possession control,suggested,0.0960011096285297,W,3,True,-0.7309854244787322
+2015-12-30,Sporting Gijón,Eibar,Low-possession,Low block + Central progression,Low block + Central progression,Low block + Central progression,suggested,-0.0960011096285297,L,0,True,-0.10224477801213445
+2015-12-30,Real Betis,Barcelona,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-0.0592127581168391,L,0,True,0.3375898661604443
+2015-12-31,Villarreal,Valencia,Balanced,High press + Possession control,Low block + Possession control,High press + Possession control,suggested,-0.375963693247698,W,3,True,-0.7037313542675687
+2016-01-02,Barcelona,Espanyol,Balanced,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.157023204170083,D,1,True,-0.41920479874590855
+2016-01-02,Atlético Madrid,Levante UD,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.3985655742908093,W,3,True,-0.2673550579702391
+2016-01-10,Eibar,Espanyol,Low-possession,High press + Possession control,High press + Wide progression,High press + Possession control,suggested,0.6302632897587792,W,3,True,-0.19672324434848265
+2016-01-10,Las Palmas,Málaga,Balanced,High press + Possession control,Low block + Possession control,High press + Possession control,suggested,-0.8062606208640148,D,1,True,-0.5798013160200567
+2016-01-16,RC Deportivo La Coruña,Real Sociedad,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-0.2268368317091373,D,1,True,-0.1783367415036989
+2016-01-16,Celta Vigo,Levante UD,Low-possession,High press + Possession control,Mid block + Possession control,High press + Possession control,suggested,0.2536709035101615,W,3,True,0.31877837038083706
+2016-01-17,Real Madrid,Sporting Gijón,Low-possession,High press + Possession control,Mid block + Central progression,High press + Possession control,suggested,0.0370948069507006,W,3,True,0.1699024846498083
+2016-01-18,Eibar,Granada,Low-possession,High press + Possession control,High press + Wide progression,High press + Possession control,suggested,-0.0323931661738978,W,3,True,-0.8593797002811596
+2016-01-23,Barcelona,Málaga,Balanced,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.5755633103963823,W,3,True,0.3133817158205568
+2016-01-24,Atlético Madrid,Sevilla,Possession-dominant,High press + Central progression,High press + Possession control,High press + Possession control,regular,0.5160924430540172,D,1,False,0.6473029593745874
+2016-01-24,Real Betis,Real Madrid,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-2.205583250785514,D,1,True,-1.8087806265082307
+2016-01-30,Real Betis,Real Sociedad,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,1.5300852762499086,L,0,True,1.9268879005271922
+2016-01-30,Villarreal,Granada,Low-possession,Low block + Possession control,High press + Possession control,High press + Possession control,regular,0.1988188856909791,W,3,False,-0.12894877532889154
+2016-01-31,Real Madrid,Espanyol,Low-possession,High press + Possession control,Mid block + Possession control,High press + Possession control,suggested,-1.5705124410007425,W,3,True,-1.4377047633016349
+2016-02-06,Athletic Club,Villarreal,Balanced,High press + Possession control,Mid block + Central progression,High press + Possession control,suggested,-0.1222218114330387,D,1,True,-0.2504679457663629
+2016-02-07,Barcelona,Levante UD,Low-possession,Low block + Possession control,High press + Possession control,High press + Possession control,regular,-0.6272580701109471,W,3,False,-0.8894396646867726
+2016-02-07,Real Madrid,Granada,Low-possession,High press + Possession control,Mid block + Possession control,High press + Possession control,suggested,0.1156222385884084,W,3,True,0.2484299162875161
+2016-02-14,Eibar,Levante UD,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,2.046243870189831,W,3,True,1.2192573360825691
+2016-02-14,Levante UD,Eibar,Low-possession,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-2.046243870189831,L,0,True,-1.3554271662207027
+2016-02-14,Barcelona,Celta Vigo,Possession-dominant,High press + Possession control,High press + Possession control,High press + Possession control,suggested,1.624306411723524,W,3,True,1.3621248171476985
+2016-02-17,Barcelona,Sporting Gijón,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.1354727079729566,W,3,True,-0.12670888660286891
+2016-02-17,Sporting Gijón,Barcelona,Possession-dominant,Low block + Wide progression,Low block + Central progression,Low block + Wide progression,suggested,-0.1354727079729566,L,0,True,-0.14171637635656134
+2016-02-19,Levante UD,Getafe,Low-possession,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-0.7048139992559705,W,3,True,-0.013997295286842348
+2016-02-21,Athletic Club,Real Sociedad,Possession-dominant,High press + Possession control,Mid block + Central progression,High press + Possession control,suggested,-0.209516875225881,L,0,True,-0.3377630095592052
+2016-02-21,Atlético Madrid,Villarreal,Balanced,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.3658002353942174,D,1,True,-0.23458971907364723
+2016-02-27,Real Madrid,Atlético Madrid,Balanced,High press + Possession control,Mid block + Possession control,High press + Possession control,suggested,-0.1234201241568387,L,0,True,0.009387553542269
+2016-02-27,Celta Vigo,Getafe,Low-possession,Low block + Central progression,Mid block + Possession control,Low block + Central progression,suggested,0.5372059601436541,W,3,True,0.6023134270143295
+2016-02-28,Barcelona,Sevilla,Possession-dominant,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.2293881985704983,W,3,True,-0.4915697931463238
+2016-02-28,Sevilla,Barcelona,Possession-dominant,High press + Possession control,Low block + Direct play,Low block + Direct play,regular,0.2293881985704983,L,0,False,0.09151373234368312
+2016-03-01,Real Sociedad,Atlético Madrid,Balanced,Low block + Wide progression,Low block + Possession control,Low block + Wide progression,suggested,0.142514664763005,L,0,True,0.17713858460699314
+2016-03-02,Real Madrid,Levante UD,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.8322211836648097,W,3,True,-0.699413505965702
+2016-03-02,Celta Vigo,Villarreal,Balanced,High press + Possession control,Mid block + Possession control,High press + Possession control,suggested,-0.3083219715016221,D,1,True,-0.24321450463094657
+2016-03-03,Barcelona,Rayo Vallecano,Possession-dominant,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.651868792589559,W,3,True,0.38968719801373347
+2016-03-05,Las Palmas,Villarreal,Balanced,High press + Possession control,Mid block + Possession control,Mid block + Possession control,regular,0.09652177155022,W,3,False,0.3229810763941781
+2016-03-05,Real Madrid,Celta Vigo,Possession-dominant,High press + Central progression,High press + Possession control,High press + Possession control,regular,-0.5999848881410021,W,3,False,-0.4671772104418944
+2016-03-06,Athletic Club,Sporting Gijón,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.4152373459823553,W,3,True,0.2869912116490311
+2016-03-11,Sporting Gijón,Málaga,Balanced,Mid block + Wide progression,Low block + Central progression,Mid block + Wide progression,suggested,0.9756717741679743,L,0,True,0.9694281057843696
+2016-03-12,RC Deportivo La Coruña,Atlético Madrid,Balanced,High press + Possession control,Low block + Wide progression,Low block + Wide progression,regular,-0.8441771386353514,L,0,False,-0.795677048429913
+2016-03-12,Real Sociedad,Celta Vigo,Possession-dominant,High press + Possession control,Low block + Possession control,High press + Possession control,suggested,0.4363388607615688,L,0,True,0.4709627806055569
+2016-03-12,Barcelona,Getafe,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.5699174041596857,W,3,True,0.3077358095838602
+2016-03-13,Real Madrid,Las Palmas,Possession-dominant,High press + Central progression,High press + Possession control,High press + Possession control,regular,-1.3914830162193286,W,3,False,-1.258675338520221
+2016-03-13,Real Betis,Athletic Club,Possession-dominant,High press + Possession control,Low block + Wide progression,Low block + Wide progression,regular,-0.5186665614341925,L,0,False,-0.12186393715690913
+2016-03-13,Athletic Club,Real Betis,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.5186665614341925,W,3,True,0.39042042710086833
+2016-03-18,Eibar,Getafe,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,2.237529690852636,D,1,True,1.4105431567453741
+2016-03-19,Levante UD,RC Deportivo La Coruña,Balanced,Mid block + Wide progression,Low block + Wide progression,Low block + Wide progression,regular,0.3034883305128263,L,0,False,0.9943050344819545
+2016-03-19,Real Sociedad,Las Palmas,Possession-dominant,High press + Possession control,Low block + Possession control,High press + Possession control,suggested,-0.9462417886239832,L,0,True,-0.9116178687799951
+2016-03-20,Villarreal,Barcelona,Possession-dominant,High press + Possession control,Low block + Central progression,Low block + Central progression,regular,0.891040562451201,D,1,False,0.5632729014313304
+2016-04-02,Las Palmas,Valencia,Balanced,High press + Possession control,Mid block + Possession control,High press + Possession control,suggested,0.0365096434448135,W,3,True,0.2629689482887716
+2016-04-02,Barcelona,Real Madrid,Possession-dominant,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-1.3334135114905008,L,0,True,-1.5955951060663263
+2016-04-02,Real Betis,Atlético Madrid,Balanced,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-2.165712563486672,L,0,True,-1.7689099392093888
+2016-04-03,Villarreal,Eibar,Low-possession,Low block + Central progression,Low block + Central progression,Low block + Central progression,suggested,2.116737768421999,W,3,True,1.7889701074021285
+2016-04-03,Athletic Club,Granada,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.6817553540525785,D,1,True,-0.8100014883859027
+2016-04-09,Barcelona,Real Sociedad,Possession-dominant,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.4128973421271987,L,0,True,0.15071574755137318
+2016-04-09,Real Sociedad,Barcelona,Possession-dominant,High press + Possession control,Low block + Wide progression,Low block + Wide progression,regular,-0.4128973421271987,W,3,False,-0.3782734222832106
+2016-04-11,Las Palmas,RC Deportivo La Coruña,Balanced,High press + Possession control,Mid block + Possession control,Mid block + Possession control,regular,0.225179474896249,W,3,False,0.45163877974020716
+2016-04-16,Real Madrid,Getafe,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,1.724305868909923,W,3,True,1.8571135466090307
+2016-04-16,Real Betis,Celta Vigo,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,0.0178849593565613,D,1,True,0.4146875836338447
+2016-04-16,Celta Vigo,Real Betis,Balanced,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.0178849593565613,D,1,True,0.047222507514114234
+2016-04-17,Villarreal,Rayo Vallecano,Possession-dominant,High press + Possession control,Low block + Central progression,Low block + Central progression,regular,-0.4230412312536576,L,0,False,-0.7508088922735283
+2016-04-17,Athletic Club,Málaga,Balanced,Mid block + Central progression,High press + Possession control,High press + Possession control,regular,-1.1654246700642414,W,3,False,-1.2936708043975655
+2016-04-17,Sevilla,RC Deportivo La Coruña,Balanced,High press + Possession control,Low block + Direct play,High press + Possession control,suggested,0.495720837519974,D,1,True,0.35784637129315877
+2016-04-17,Atlético Madrid,Granada,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,-0.2765686986512712,W,3,True,-0.14535818233070102
+2016-04-17,Barcelona,Valencia,Balanced,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.1092458354627764,L,0,True,-0.15293575911304913
+2016-04-19,Celta Vigo,Espanyol,Low-possession,Low block + Central progression,High press + Possession control,High press + Possession control,regular,-0.4572403271336773,D,1,False,-0.39213286026300176
+2016-04-19,Real Betis,Las Palmas,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,1.7423393321075054,W,3,True,2.1391419563847887
+2016-04-20,Real Madrid,Villarreal,Balanced,Mid block + Central progression,High press + Possession control,High press + Possession control,regular,0.0987418721765804,W,3,False,0.2315495498756881
+2016-04-21,Real Sociedad,Getafe,Low-possession,High press + Possession control,Low block + Wide progression,High press + Possession control,suggested,-0.3370185272609549,L,0,True,-0.3023946074169668
+2016-04-21,Levante UD,Granada,Low-possession,Low block + Central progression,Low block + Wide progression,Low block + Central progression,suggested,-0.3156972769435375,L,0,True,0.3751194270255907
+2016-04-22,Las Palmas,Espanyol,Low-possession,Low block + Central progression,Mid block + Possession control,Mid block + Possession control,regular,-0.6842467932470584,W,3,False,-0.45778748840310024
+2016-04-23,Barcelona,Sporting Gijón,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.3951606981745073,W,3,True,0.13297910359868176
+2016-04-24,Real Sociedad,Villarreal,Low-possession,High press + Possession control,Low block + Wide progression,High press + Possession control,suggested,0.2172178748994022,D,1,True,0.2518417947433903
+2016-04-24,Sevilla,Real Betis,Balanced,High press + Possession control,Low block + Direct play,High press + Possession control,suggested,-0.3114856374100267,W,3,True,-0.44936010363684187
+2016-04-25,Celta Vigo,Granada,Low-possession,Low block + Central progression,High press + Possession control,High press + Possession control,regular,-0.3980744068860081,W,3,False,-0.33296694001533256
+2016-04-29,Sporting Gijón,Eibar,Low-possession,Low block + Central progression,Low block + Wide progression,Low block + Wide progression,regular,-0.4866896333238191,W,3,False,-0.49293330170742383
+2016-04-30,Real Madrid,Real Sociedad,Balanced,Mid block + Central progression,High press + Possession control,High press + Possession control,regular,0.5075056729352091,W,3,False,0.6403133506343168
+2016-04-30,Real Betis,Barcelona,Possession-dominant,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,-1.0512193753139891,L,0,True,-0.6544167510367057
+2016-05-01,Athletic Club,Celta Vigo,Possession-dominant,Mid block + Central progression,High press + Possession control,High press + Possession control,regular,-0.3420836339196489,W,3,False,-0.4703297682529731
+2016-05-01,Villarreal,Valencia,Balanced,Mid block + Central progression,Low block + Central progression,Low block + Central progression,regular,0.8537231828537036,W,3,False,0.525955521833833
+2016-05-08,Barcelona,Espanyol,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.9704265604889366,W,3,True,0.7082449659131111
+2016-05-08,RC Deportivo La Coruña,Villarreal,Balanced,Low block + Wide progression,Low block + Wide progression,Low block + Wide progression,suggested,0.058844178946004,W,3,True,0.10734426915144238
+2016-05-14,Athletic Club,Sevilla,Possession-dominant,Mid block + Central progression,High press + Possession control,High press + Possession control,regular,0.3221319116101746,W,3,False,0.19388577727685044
+2016-05-14,Real Madrid,RC Deportivo La Coruña,Balanced,Mid block + Central progression,High press + Possession control,High press + Possession control,regular,0.5734667389317151,W,3,False,0.7062744166308228
+2016-05-14,Barcelona,Granada,Low-possession,High press + Possession control,High press + Possession control,High press + Possession control,suggested,0.7757350817670465,W,3,True,0.5135534871912211
+2016-05-15,Villarreal,Sporting Gijón,Low-possession,Low block + Central progression,Low block + Central progression,Low block + Central progression,suggested,-0.9669418477774324,L,0,True,-1.294709508797303

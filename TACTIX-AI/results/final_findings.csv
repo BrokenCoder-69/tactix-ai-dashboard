@@ -1,0 +1,9 @@
+id,evidence,finding
+F1,Recommendation,"**Our recommended tactic, High press + Possession control, is associated with a better chance of winning.** In simulation it raised Barcelona's win probability from 58% to 74% (+16.4 percentage points) and lowered Real Madrid's from 22% to 9%."
+F2,Real matches,"**When teams actually played this tactic, they won 56% of matches, compared with 34% otherwise**, and outperformed their pre-match expectation (+0.27 npxGD per match, 95% CI +0.03 to +0.54) — mainly by limiting the opponent's chances (Real Madrid's expected npxG 1.20 → 0.50)."
+F3,Tactical evidence,"**High pressing is robustly associated with better-than-expected results** (+0.29 npxGD per match, 95% CI +0.12 to +0.46), while sitting deep is associated with worse ones (-0.34); both hold when each team is compared only with itself."
+F4,Key player,"**When the opponent's key attacker is kept quiet, the team creates fewer chances — his teammates do not make up the difference** (-0.13 npxG, 95% CI -0.25 to -0.01). If Ronaldo were held to his quiet-match level, Real Madrid's expected npxG would fall from 1.20 to 0.27 and Barcelona's simulated win probability would rise to 83% (scenario; marking itself is not observed)."
+F5,Validated models,**The models behind the recommendation were validated on real matches:** the pre-match expectation model beat naive guesses (error 0.504 vs 0.534) and the goal model beat a naive baseline (Brier 0.585 vs 0.639).
+F6,Prediction and XAI,"Pass success is predictable from pre-pass information (ROC-AUC 0.838), and SHAP/LIME make every model's reasoning transparent."
+F7,Data,"The full La Liga 2015/16 season was reconstructed reliably: 380 matches, every score matching the official result, and 22/22 automated quality checks passed."
+F8,Further evidence,"A stricter season-long test of pre-match advice pointed in the same positive direction (+0.05), which more seasons of data could confirm statistically."

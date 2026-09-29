@@ -1,0 +1,29 @@
+module,status,evidence,note
+Data audit and availability flags,IMPLEMENTED,"audit_table, data_availability",
+"Game state, non-penalty xG, 11 v 11 flags",IMPLEMENTED,gs_tm,
+Tactical identity engine (all teams),IMPLEMENTED,"team_match, team_profile",
+Block / pressing classification,IMPLEMENTED,"block_thresholds, block_sensitivity","Event-location proxy, not tracking-based shape"
+Formation analysis,PARTIALLY IMPLEMENTED,formation_stats,Starting formation from metadata only; in/out-of-possession shape needs tracking data
+Home vs away differences,IMPLEMENTED,home_away,
+Rival profile and exploited zones,IMPLEMENTED,"rival_profile, zones_exploited",
+Transparent threat score + threat types,IMPLEMENTED,threats,
+"Player profiles, strengths / weaknesses",IMPLEMENTED,"prof, sw",Rule-based percentiles
+Player clustering,PARTIALLY IMPLEMENTED,cl,Global KMeans only (batch 4 adds roles)
+ML prediction (5 models + baseline),IMPLEMENTED,model_summary,
+Leakage audit table,IMPLEMENTED,leakage_table,
+SHAP / LIME,IMPLEMENTED,shap_tov,
+Model counterfactual ΔY = f(X') − f(X),IMPLEMENTED,"counterfactual_table, cf_validation","Model response, not causal; possession-level ICE also in §8"
+Head-to-head goal model (validated),IMPLEMENTED,goal_model_summary,Brier / log loss / RPS vs naive
+Monte Carlo tactic scenarios,IMPLEMENTED,mc_scenarios,"Scenario, not validated prediction; effects are associations"
+Pre-match expectation model,IMPLEMENTED,exp_check,Prior matches only
+Key-player suppression validation,IMPLEMENTED,suppression_results,Proxy — man-marking not observed
+Strategy library + effect estimation,IMPLEMENTED,strategy_effects,"Associations, venue- and expectation-adjusted"
+Historical tactical backtesting,IMPLEMENTED,backtest,"Rolling, prior matches only"
+Tactical recommendation engine,NOT IMPLEMENTED,match_plan,planned
+Squad selection / tactical lineup,NOT IMPLEMENTED,squad_plan,planned
+Recruitment / scouting,PARTIALLY IMPLEMENTED,cand,Proof of concept (batch 4)
+Workload / availability (descriptive),PARTIALLY IMPLEMENTED,wl,No injury history
+Injury-proneness prediction,NOT IMPLEMENTABLE FROM DATA,data_availability,No injury history in the dataset
+Tracking-based compactness / defensive line,NOT IMPLEMENTABLE FROM DATA,data_availability,No tracking data
+Multi-source data integration,NOT IMPLEMENTABLE FROM DATA,data_availability,Single source (StatsBomb)
+Future potential / cost efficiency,NOT IMPLEMENTABLE FROM DATA,data_availability,No age or market data

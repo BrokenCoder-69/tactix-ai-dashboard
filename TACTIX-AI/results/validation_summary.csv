@@ -1,0 +1,14 @@
+area,measure,result  [95 % CI]
+Expectation model,Error vs actual npxG (MAE): model / team average / league average,0.504 / 0.534 / 0.561
+Ronaldo suppression,Teammates' npxG difference (n = 13 vs 14),"-0.374  [-0.840, +0.067]"
+League suppression,"Teammates' npxG difference, within-team","-0.129  [-0.252, -0.007]"
+Strategy effect (within-team),High press,"+0.29  [+0.12, +0.46]  (n = 247)"
+Strategy effect (within-team),Mid block,"+0.02  [-0.18, +0.21]  (n = 246)"
+Strategy effect (within-team),Low block,"-0.34  [-0.51, -0.17]  (n = 247)"
+Strategy effect (within-team),Wide progression,"-0.20  [-0.37, -0.02]  (n = 247)"
+Strategy effect (within-team),Central progression,"+0.21  [-0.04, +0.46]  (n = 247)"
+Strategy effect (within-team),Direct play,"-0.05  [-0.25, +0.15]  (n = 247)"
+Strategy effect (within-team),Possession control,"+0.16  [-0.04, +0.36]  (n = 247)"
+Backtest (pre-registered),Followed − not followed,"+0.052  [-0.122, +0.226]"
+Backtest (pre-registered),Recommendations / followed / not followed,577 / 188 / 389
+Backtest (post-hoc check),Within-team followed − not followed,-0.046  (positive for 7 of 20 teams)

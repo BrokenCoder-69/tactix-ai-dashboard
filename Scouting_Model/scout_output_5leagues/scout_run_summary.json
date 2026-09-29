@@ -1,0 +1,37 @@
+{
+  "n_players": 1272,
+  "n_teams": 81,
+  "identifiable_plans": [
+    "High press + Possession control",
+    "High press + Direct build-up",
+    "Mid block + Possession control",
+    "Mid block + Direct build-up",
+    "Low block + Possession control",
+    "Low block + Direct build-up"
+  ],
+  "not_identifiable": [],
+  "case_team": "La Liga | Barcelona",
+  "case_plans": [
+    "High press + Possession control",
+    "Mid block + Possession control",
+    "Low block + Possession control"
+  ],
+  "loto_significant": 6,
+  "loto_n": 6,
+  "loto_median_rho": 0.47300549738500675,
+  "noise_mean_spearman": 0.9615860659632821,
+  "noise_top_decile_kept": 0.9828459019122718,
+  "sens_median": {
+    "shrunk_vs_unshrunk": 0.992,
+    "raw_statistics": 0.509,
+    "strength_unadjusted_usage": 0.947,
+    "minutes_ge_1500_template": 0.987,
+    "drop_one_stat_min": 0.873,
+    "drop_one_stat_median": 0.989
+  },
+  "n_boot": 300,
+  "n_perm": 1000,
+  "n_noise": 200,
+  "n_perm_val": 1000,
+  "seed": 42
+}

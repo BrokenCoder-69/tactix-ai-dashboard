@@ -1,0 +1,4 @@
+validation layer,method,advantage (npxGD),CI low,CI high,p,plan matches,baseline matches,success rate plan,success rate baseline,status
+"V1 Replication (4 leagues, primary)","Replication in 4 independent leagues (within-team comparison, bootstrap CI, permutation test)",0.15532125014800252,0.06936542456664435,0.2465031375486815,0.0009995002498750624,441,1637,0.6190476190476191,0.46585230427540253,Supported
+V2 Temporal out-of-sample (plan chosen on first half: High press + Central progression),"Temporal out-of-sample, La Liga (rule re-run on matches before 2016-02-14; tested after)",0.05395895166928815,-0.18520377136035945,0.3679766222142929,0.35282358820589704,46,187,0.5434782608695652,0.491869918699187,Suggestive
+V3 Rolling backtest (Step 48),Rolling pre-match backtest (Step 48),0.0516037336930895,-0.1219979657574157,0.2264806757107758,0.540491057511956,188,389,0.5638297872340425,0.467866323907455,Suggestive

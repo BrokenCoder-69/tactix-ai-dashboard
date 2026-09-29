@@ -1,0 +1,361 @@
+﻿plan,pos_group,feature,label,beta_per_SD_usage,se_boot,ci_low,ci_high,p_perm,p_bh,shrunk_weight,n_players
+High press + Possession control,DEF,prog_passes_p90,Progressive passes /90,-0.06125,0.05082,-0.16087,0.03836,0.51848,0.77772,-0.03628,129
+High press + Possession control,DEF,key_passes_p90,Key passes /90,0.00426,0.08126,-0.15501,0.16353,0.95704,0.95704,1e-05,129
+High press + Possession control,DEF,xa_p90,xA /90,0.06507,0.10054,-0.13198,0.26213,0.50549,0.77772,0.01921,129
+High press + Possession control,DEF,shots_p90,Shots /90,-0.03614,0.09162,-0.21572,0.14345,0.71828,0.86194,-0.00486,129
+High press + Possession control,DEF,xg_p90,xG /90,-0.09992,0.0834,-0.26338,0.06353,0.24975,0.61738,-0.0589,129
+High press + Possession control,DEF,dribbles_p90,Dribbles /90,-0.0831,0.08186,-0.24355,0.07735,0.26973,0.61738,-0.04217,129
+High press + Possession control,DEF,prog_carries_p90,Progressive carries /90,0.00873,0.0927,-0.17296,0.19042,0.8961,0.95704,8e-05,129
+High press + Possession control,DEF,def_actions_p90,Defensive actions /90,0.61143,0.16868,0.28081,0.94205,0.001,0.00599,0.56819,129
+High press + Possession control,DEF,pressures_p90,Pressures /90,0.49591,0.12815,0.24473,0.74709,0.001,0.00599,0.46487,129
+High press + Possession control,DEF,crosses_p90,Crosses /90,-0.02556,0.07502,-0.17261,0.12149,0.68831,0.86194,-0.00266,129
+High press + Possession control,DEF,pass_completion,Pass completion,0.23287,0.21741,-0.19325,0.65899,0.20979,0.61738,0.12442,129
+High press + Possession control,DEF,avg_pass_len,Average pass length,-0.09099,0.09992,-0.28684,0.10487,0.30869,0.61738,-0.04124,129
+High press + Possession control,DM,prog_passes_p90,Progressive passes /90,-0.10266,0.2146,-0.52328,0.31796,0.50749,0.60899,-0.01912,53
+High press + Possession control,DM,key_passes_p90,Key passes /90,0.17088,0.16235,-0.14732,0.48908,0.23976,0.48637,0.08982,53
+High press + Possession control,DM,xa_p90,xA /90,0.11388,0.14688,-0.174,0.40177,0.40559,0.54079,0.04276,53
+High press + Possession control,DM,shots_p90,Shots /90,-0.11012,0.14082,-0.38613,0.1659,0.3996,0.54079,-0.04178,53
+High press + Possession control,DM,xg_p90,xG /90,-0.0307,0.2001,-0.42289,0.3615,0.82517,0.82517,-0.00071,53
+High press + Possession control,DM,dribbles_p90,Dribbles /90,0.05548,0.09295,-0.12671,0.23767,0.71129,0.77595,0.01457,53
+High press + Possession control,DM,prog_carries_p90,Progressive carries /90,0.16628,0.11986,-0.06865,0.40122,0.28072,0.48637,0.10943,53
+High press + Possession control,DM,def_actions_p90,Defensive actions /90,0.21924,0.2488,-0.26841,0.70688,0.17483,0.48637,0.09583,53
+High press + Possession control,DM,pressures_p90,Pressures /90,0.19046,0.22848,-0.25737,0.63829,0.23776,0.48637,0.07808,53
+High press + Possession control,DM,crosses_p90,Crosses /90,0.25829,0.17177,-0.07839,0.59497,0.09091,0.48637,0.17908,53
+High press + Possession control,DM,pass_completion,Pass completion,0.22253,0.23921,-0.24631,0.69137,0.28372,0.48637,0.10324,53
+High press + Possession control,DM,avg_pass_len,Average pass length,0.23444,0.14053,-0.04099,0.50987,0.12687,0.48637,0.17247,53
+High press + Possession control,CM,prog_passes_p90,Progressive passes /90,0.09048,0.21636,-0.33359,0.51455,0.64036,0.76843,0.01347,35
+High press + Possession control,CM,key_passes_p90,Key passes /90,-0.2397,0.25163,-0.73289,0.25348,0.27772,0.3703,-0.11404,35
+High press + Possession control,CM,xa_p90,xA /90,-0.28652,0.22885,-0.73507,0.16204,0.18182,0.27273,-0.17492,35
+High press + Possession control,CM,shots_p90,Shots /90,-0.34435,0.19493,-0.72642,0.03772,0.05095,0.2449,-0.26078,35
+High press + Possession control,CM,xg_p90,xG /90,-0.23064,0.16684,-0.55765,0.09637,0.12188,0.2449,-0.15141,35
+High press + Possession control,CM,dribbles_p90,Dribbles /90,-0.29038,0.23222,-0.74553,0.16476,0.12388,0.2449,-0.17712,35
+High press + Possession control,CM,prog_carries_p90,Progressive carries /90,-0.2379,0.16638,-0.56401,0.08821,0.14286,0.2449,-0.15976,35
+High press + Possession control,CM,def_actions_p90,Defensive actions /90,0.07531,0.37859,-0.66672,0.81734,0.78721,0.85878,0.00287,35
+High press + Possession control,CM,pressures_p90,Pressures /90,0.04814,0.32119,-0.58139,0.67767,0.87113,0.87113,0.00106,35
+High press + Possession control,CM,crosses_p90,Crosses /90,-0.34907,0.18846,-0.71846,0.02032,0.09391,0.2449,-0.27028,35
+High press + Possession control,CM,pass_completion,Pass completion,0.44003,0.32617,-0.19927,1.07933,0.11788,0.2449,0.28399,35
+High press + Possession control,CM,avg_pass_len,Average pass length,0.401,0.26549,-0.11936,0.92136,0.06693,0.2449,0.27879,35
+High press + Possession control,AM/W,prog_passes_p90,Progressive passes /90,-0.04253,0.12897,-0.29531,0.21024,0.70929,0.77377,-0.00417,59
+High press + Possession control,AM/W,key_passes_p90,Key passes /90,-0.11001,0.14821,-0.40049,0.18048,0.31169,0.77377,-0.03908,59
+High press + Possession control,AM/W,xa_p90,xA /90,0.06159,0.20221,-0.33475,0.45793,0.67632,0.77377,0.00523,59
+High press + Possession control,AM/W,shots_p90,Shots /90,0.0892,0.18415,-0.27173,0.45013,0.62038,0.77377,0.01695,59
+High press + Possession control,AM/W,xg_p90,xG /90,0.15195,0.32841,-0.49172,0.79563,0.48352,0.77377,0.0268,59
+High press + Possession control,AM/W,dribbles_p90,Dribbles /90,-0.09023,0.25651,-0.593,0.41254,0.65335,0.77377,-0.00994,59
+High press + Possession control,AM/W,prog_carries_p90,Progressive carries /90,-0.12263,0.17465,-0.46495,0.21969,0.38661,0.77377,-0.04049,59
+High press + Possession control,AM/W,def_actions_p90,Defensive actions /90,0.13566,0.16077,-0.17946,0.45078,0.37662,0.77377,0.05642,59
+High press + Possession control,AM/W,pressures_p90,Pressures /90,0.03501,0.15409,-0.267,0.33702,0.7992,0.7992,0.00172,59
+High press + Possession control,AM/W,crosses_p90,Crosses /90,-0.17272,0.17628,-0.51824,0.1728,0.17183,0.77377,-0.0846,59
+High press + Possession control,AM/W,pass_completion,Pass completion,0.13249,0.20152,-0.2625,0.52748,0.41658,0.77377,0.03998,59
+High press + Possession control,AM/W,avg_pass_len,Average pass length,-0.18308,0.2603,-0.69326,0.3271,0.34565,0.77377,-0.0606,59
+High press + Possession control,FW,prog_passes_p90,Progressive passes /90,-0.37154,0.15856,-0.68231,-0.06076,0.03097,0.18581,-0.31429,44
+High press + Possession control,FW,key_passes_p90,Key passes /90,-0.03579,0.18225,-0.39301,0.32143,0.83516,0.8981,-0.00133,44
+High press + Possession control,FW,xa_p90,xA /90,-0.17882,0.20706,-0.58465,0.22701,0.30669,0.61339,-0.0764,44
+High press + Possession control,FW,shots_p90,Shots /90,0.06969,0.17931,-0.28176,0.42113,0.60639,0.8951,0.00914,44
+High press + Possession control,FW,xg_p90,xG /90,0.22177,0.15845,-0.0888,0.53234,0.14885,0.44655,0.14682,44
+High press + Possession control,FW,dribbles_p90,Dribbles /90,-0.30191,0.1405,-0.5773,-0.02653,0.05495,0.21978,-0.24817,44
+High press + Possession control,FW,prog_carries_p90,Progressive carries /90,-0.34805,0.07996,-0.50478,-0.19132,0.00899,0.10789,-0.3306,44
+High press + Possession control,FW,def_actions_p90,Defensive actions /90,0.08518,0.27809,-0.45988,0.63024,0.67133,0.8951,0.00731,44
+High press + Possession control,FW,pressures_p90,Pressures /90,0.02187,0.23858,-0.44574,0.48948,0.8981,0.8981,0.00018,44
+High press + Possession control,FW,crosses_p90,Crosses /90,-0.12764,0.08851,-0.30112,0.04584,0.28571,0.61339,-0.0862,44
+High press + Possession control,FW,pass_completion,Pass completion,-0.05077,0.15767,-0.35981,0.25827,0.74725,0.8967,-0.00477,44
+High press + Possession control,FW,avg_pass_len,Average pass length,-0.11066,0.11609,-0.3382,0.11687,0.41658,0.71414,-0.05268,44
+High press + Direct build-up,DEF,prog_passes_p90,Progressive passes /90,0.12126,0.07967,-0.03489,0.27742,0.22877,0.45754,0.0847,129
+High press + Direct build-up,DEF,key_passes_p90,Key passes /90,0.03356,0.05564,-0.0755,0.14263,0.65135,0.71165,0.00895,129
+High press + Direct build-up,DEF,xa_p90,xA /90,0.0453,0.09758,-0.14595,0.23655,0.65235,0.71165,0.00803,129
+High press + Direct build-up,DEF,shots_p90,Shots /90,0.06943,0.10495,-0.13628,0.27515,0.51748,0.68998,0.02114,129
+High press + Direct build-up,DEF,xg_p90,xG /90,0.03188,0.10804,-0.17988,0.24364,0.71728,0.71728,0.00255,129
+High press + Direct build-up,DEF,dribbles_p90,Dribbles /90,0.0651,0.08637,-0.10418,0.23439,0.38961,0.58442,0.02359,129
+High press + Direct build-up,DEF,prog_carries_p90,Progressive carries /90,-0.06489,0.07882,-0.21937,0.08959,0.36064,0.58442,-0.02621,129
+High press + Direct build-up,DEF,def_actions_p90,Defensive actions /90,-0.29037,0.16664,-0.61699,0.03625,0.12587,0.44655,-0.21843,129
+High press + Direct build-up,DEF,pressures_p90,Pressures /90,-0.21494,0.13034,-0.47041,0.04053,0.14885,0.44655,-0.15715,129
+High press + Direct build-up,DEF,crosses_p90,Crosses /90,0.0805,0.05856,-0.03428,0.19529,0.20779,0.45754,0.05264,129
+High press + Direct build-up,DEF,pass_completion,Pass completion,-0.48553,0.15747,-0.79417,-0.17689,0.01099,0.13187,-0.43932,129
+High press + Direct build-up,DEF,avg_pass_len,Average pass length,0.1787,0.09756,-0.01252,0.36991,0.03497,0.20979,0.13767,129
+High press + Direct build-up,DM,prog_passes_p90,Progressive passes /90,0.30824,0.1424,0.02914,0.58735,0.03796,0.22777,0.25403,53
+High press + Direct build-up,DM,key_passes_p90,Key passes /90,0.16271,0.1808,-0.19166,0.51708,0.23576,0.35564,0.07281,53
+High press + Direct build-up,DM,xa_p90,xA /90,0.17034,0.14193,-0.10785,0.44854,0.18182,0.35564,0.10054,53
+High press + Direct build-up,DM,shots_p90,Shots /90,0.16432,0.15629,-0.142,0.47064,0.1968,0.35564,0.08628,53
+High press + Direct build-up,DM,xg_p90,xG /90,0.16239,0.14959,-0.1308,0.45558,0.24476,0.35564,0.08785,53
+High press + Direct build-up,DM,dribbles_p90,Dribbles /90,0.12389,0.1216,-0.11445,0.36223,0.46254,0.53247,0.0631,53
+High press + Direct build-up,DM,prog_carries_p90,Progressive carries /90,-0.18171,0.19079,-0.55564,0.19223,0.26673,0.35564,-0.08643,53
+High press + Direct build-up,DM,def_actions_p90,Defensive actions /90,-0.10557,0.14931,-0.39821,0.18708,0.52348,0.53247,-0.03518,53
+High press + Direct build-up,DM,pressures_p90,Pressures /90,-0.10342,0.13808,-0.37407,0.16722,0.53247,0.53247,-0.03717,53
+High press + Direct build-up,DM,crosses_p90,Crosses /90,0.15951,0.1523,-0.139,0.45802,0.26174,0.35564,0.08344,53
+High press + Direct build-up,DM,pass_completion,Pass completion,-0.54239,0.17311,-0.88169,-0.20309,0.00899,0.10789,-0.49225,53
+High press + Direct build-up,DM,avg_pass_len,Average pass length,0.22453,0.20489,-0.17705,0.62611,0.14785,0.35564,0.12252,53
+High press + Direct build-up,CM,prog_passes_p90,Progressive passes /90,0.01092,0.15824,-0.29922,0.32107,0.95504,0.95504,5e-05,35
+High press + Direct build-up,CM,key_passes_p90,Key passes /90,0.30917,0.20827,-0.09903,0.71737,0.16184,0.37962,0.21267,35
+High press + Direct build-up,CM,xa_p90,xA /90,0.4003,0.14126,0.12344,0.67717,0.03996,0.17582,0.35598,35
+High press + Direct build-up,CM,shots_p90,Shots /90,0.3641,0.10726,0.15388,0.57433,0.04396,0.17582,0.33503,35
+High press + Direct build-up,CM,xg_p90,xG /90,0.34847,0.10607,0.14056,0.55637,0.01499,0.17582,0.31892,35
+High press + Direct build-up,CM,dribbles_p90,Dribbles /90,0.10322,0.14328,-0.1776,0.38405,0.56444,0.71056,0.03527,35
+High press + Direct build-up,CM,prog_carries_p90,Progressive carries /90,0.11055,0.11364,-0.11218,0.33328,0.5035,0.71056,0.05375,35
+High press + Direct build-up,CM,def_actions_p90,Defensive actions /90,-0.12083,0.26945,-0.64897,0.4073,0.65135,0.71056,-0.02023,35
+High press + Direct build-up,CM,pressures_p90,Pressures /90,-0.12733,0.22525,-0.56883,0.31416,0.63137,0.71056,-0.03084,35
+High press + Direct build-up,CM,crosses_p90,Crosses /90,0.33855,0.13459,0.07475,0.60234,0.10589,0.31768,0.29235,35
+High press + Direct build-up,CM,pass_completion,Pass completion,-0.29076,0.22436,-0.73051,0.149,0.31369,0.53775,-0.18224,35
+High press + Direct build-up,CM,avg_pass_len,Average pass length,-0.29108,0.19805,-0.67925,0.09709,0.18981,0.37962,-0.19898,35
+High press + Direct build-up,AM/W,prog_passes_p90,Progressive passes /90,-0.04622,0.15736,-0.35465,0.2622,0.68132,0.79557,-0.00367,59
+High press + Direct build-up,AM/W,key_passes_p90,Key passes /90,-0.13296,0.16532,-0.45698,0.19106,0.23277,0.46553,-0.05223,59
+High press + Direct build-up,AM/W,xa_p90,xA /90,-0.25573,0.20638,-0.66025,0.14878,0.09291,0.2997,-0.15487,59
+High press + Direct build-up,AM/W,shots_p90,Shots /90,-0.06529,0.19443,-0.44638,0.3158,0.72927,0.79557,-0.00662,59
+High press + Direct build-up,AM/W,xg_p90,xG /90,-0.18154,0.24879,-0.66916,0.30608,0.44755,0.67133,-0.06308,59
+High press + Direct build-up,AM/W,dribbles_p90,Dribbles /90,-0.19185,0.24589,-0.67379,0.29009,0.3047,0.52233,-0.07259,59
+High press + Direct build-up,AM/W,prog_carries_p90,Progressive carries /90,-0.21741,0.14102,-0.4938,0.05899,0.0999,0.2997,-0.15303,59
+High press + Direct build-up,AM/W,def_actions_p90,Defensive actions /90,0.06745,0.18083,-0.28697,0.42187,0.65834,0.79557,0.00824,59
+High press + Direct build-up,AM/W,pressures_p90,Pressures /90,0.00822,0.19021,-0.36459,0.38103,0.96104,0.96104,2e-05,59
+High press + Direct build-up,AM/W,crosses_p90,Crosses /90,0.29004,0.13539,0.02467,0.55541,0.01598,0.0959,0.23815,59
+High press + Direct build-up,AM/W,pass_completion,Pass completion,-0.39669,0.1678,-0.72557,-0.0678,0.01199,0.0959,-0.33648,59
+High press + Direct build-up,AM/W,avg_pass_len,Average pass length,0.26938,0.17298,-0.06965,0.60842,0.14386,0.34525,0.19074,59
+High press + Direct build-up,FW,prog_passes_p90,Progressive passes /90,0.26246,0.18793,-0.10589,0.6308,0.15984,0.74326,0.1735,44
+High press + Direct build-up,FW,key_passes_p90,Key passes /90,0.00054,0.16996,-0.33259,0.33367,0.997,0.997,0.0,44
+High press + Direct build-up,FW,xa_p90,xA /90,0.03686,0.24214,-0.43773,0.51145,0.86314,0.9416,0.00084,44
+High press + Direct build-up,FW,shots_p90,Shots /90,0.02397,0.10222,-0.17638,0.22432,0.85015,0.9416,0.00125,44
+High press + Direct build-up,FW,xg_p90,xG /90,-0.04933,0.1365,-0.31686,0.21821,0.74026,0.9416,-0.0057,44
+High press + Direct build-up,FW,dribbles_p90,Dribbles /90,0.12235,0.1969,-0.26357,0.50827,0.48651,0.9416,0.03408,44
+High press + Direct build-up,FW,prog_carries_p90,Progressive carries /90,0.02686,0.16713,-0.30072,0.35444,0.86114,0.9416,0.00068,44
+High press + Direct build-up,FW,def_actions_p90,Defensive actions /90,0.29841,0.18128,-0.0569,0.65372,0.14785,0.74326,0.21797,44
+High press + Direct build-up,FW,pressures_p90,Pressures /90,0.25288,0.15968,-0.06008,0.56585,0.18581,0.74326,0.1808,44
+High press + Direct build-up,FW,crosses_p90,Crosses /90,0.06224,0.12689,-0.18647,0.31095,0.60639,0.9416,0.01207,44
+High press + Direct build-up,FW,pass_completion,Pass completion,-0.03911,0.12962,-0.29316,0.21494,0.78621,0.9416,-0.00326,44
+High press + Direct build-up,FW,avg_pass_len,Average pass length,-0.13855,0.1071,-0.34846,0.07136,0.31768,0.9416,-0.08673,44
+Mid block + Possession control,DEF,prog_passes_p90,Progressive passes /90,-0.0394,0.10589,-0.24694,0.16814,0.72627,0.87153,-0.00479,129
+Mid block + Possession control,DEF,key_passes_p90,Key passes /90,-0.01397,0.07466,-0.1603,0.13235,0.85514,0.93289,-0.00047,129
+Mid block + Possession control,DEF,xa_p90,xA /90,0.06011,0.08835,-0.11305,0.23328,0.51548,0.68731,0.01902,129
+Mid block + Possession control,DEF,shots_p90,Shots /90,-0.11666,0.10964,-0.33156,0.09823,0.26374,0.49493,-0.06195,129
+Mid block + Possession control,DEF,xg_p90,xG /90,-0.0929,0.10107,-0.29101,0.10521,0.28871,0.49493,-0.04254,129
+Mid block + Possession control,DEF,dribbles_p90,Dribbles /90,-0.11197,0.06872,-0.24666,0.02271,0.13487,0.4046,-0.08134,129
+Mid block + Possession control,DEF,prog_carries_p90,Progressive carries /90,-0.00392,0.07798,-0.15675,0.14891,0.96404,0.96404,-1e-05,129
+Mid block + Possession control,DEF,def_actions_p90,Defensive actions /90,0.44724,0.19684,0.06143,0.83305,0.00699,0.08392,0.37467,129
+Mid block + Possession control,DEF,pressures_p90,Pressures /90,0.32493,0.16417,0.00316,0.6467,0.01399,0.08392,0.25885,129
+Mid block + Possession control,DEF,crosses_p90,Crosses /90,-0.05529,0.08392,-0.21977,0.10919,0.42657,0.63986,-0.01673,129
+Mid block + Possession control,DEF,pass_completion,Pass completion,0.38414,0.18174,0.02793,0.74035,0.02198,0.08791,0.31388,129
+Mid block + Possession control,DEF,avg_pass_len,Average pass length,-0.11173,0.10105,-0.30979,0.08633,0.18981,0.45554,-0.06146,129
+Mid block + Possession control,DM,prog_passes_p90,Progressive passes /90,-0.39562,0.15181,-0.69317,-0.09806,0.00999,0.05994,-0.34484,53
+Mid block + Possession control,DM,key_passes_p90,Key passes /90,-0.14282,0.14639,-0.42974,0.14409,0.31369,0.45315,-0.06965,53
+Mid block + Possession control,DM,xa_p90,xA /90,-0.14471,0.12405,-0.38785,0.09842,0.27073,0.45315,-0.08342,53
+Mid block + Possession control,DM,shots_p90,Shots /90,-0.06553,0.15059,-0.36069,0.22963,0.59141,0.64517,-0.01043,53
+Mid block + Possession control,DM,xg_p90,xG /90,-0.12286,0.16614,-0.4485,0.20278,0.36563,0.45315,-0.04344,53
+Mid block + Possession control,DM,dribbles_p90,Dribbles /90,-0.06055,0.16619,-0.38629,0.26519,0.72827,0.72827,-0.0071,53
+Mid block + Possession control,DM,prog_carries_p90,Progressive carries /90,0.18124,0.20349,-0.2176,0.58008,0.27373,0.45315,0.08018,53
+Mid block + Possession control,DM,def_actions_p90,Defensive actions /90,0.22752,0.19713,-0.15886,0.6139,0.15784,0.45315,0.12996,53
+Mid block + Possession control,DM,pressures_p90,Pressures /90,0.15041,0.18946,-0.22093,0.52175,0.34466,0.45315,0.05815,53
+Mid block + Possession control,DM,crosses_p90,Crosses /90,-0.12998,0.14162,-0.40756,0.14759,0.37762,0.45315,-0.05943,53
+Mid block + Possession control,DM,pass_completion,Pass completion,0.52498,0.18748,0.15752,0.89245,0.00799,0.05994,0.4656,53
+Mid block + Possession control,DM,avg_pass_len,Average pass length,-0.17415,0.18468,-0.53612,0.18781,0.27473,0.45315,-0.08197,53
+Mid block + Possession control,CM,prog_passes_p90,Progressive passes /90,0.07349,0.18817,-0.29532,0.44229,0.73427,0.86205,0.00973,35
+Mid block + Possession control,CM,key_passes_p90,Key passes /90,-0.216,0.17665,-0.56223,0.13023,0.31069,0.41425,-0.12943,35
+Mid block + Possession control,CM,xa_p90,xA /90,-0.23453,0.15276,-0.53393,0.06488,0.28472,0.41425,-0.16467,35
+Mid block + Possession control,CM,shots_p90,Shots /90,-0.25696,0.15744,-0.56555,0.05162,0.14186,0.41425,-0.18683,35
+Mid block + Possession control,CM,xg_p90,xG /90,-0.19684,0.1359,-0.46321,0.06952,0.15285,0.41425,-0.1333,35
+Mid block + Possession control,CM,dribbles_p90,Dribbles /90,-0.22174,0.16789,-0.5508,0.10732,0.1978,0.41425,-0.14094,35
+Mid block + Possession control,CM,prog_carries_p90,Progressive carries /90,-0.23814,0.12564,-0.4844,0.00812,0.11988,0.41425,-0.18628,35
+Mid block + Possession control,CM,def_actions_p90,Defensive actions /90,0.06762,0.26486,-0.45151,0.58674,0.79021,0.86205,0.00414,35
+Mid block + Possession control,CM,pressures_p90,Pressures /90,0.01012,0.22106,-0.42317,0.4434,0.96803,0.96803,2e-05,35
+Mid block + Possession control,CM,crosses_p90,Crosses /90,-0.23697,0.14087,-0.51307,0.03913,0.25375,0.41425,-0.1751,35
+Mid block + Possession control,CM,pass_completion,Pass completion,0.30412,0.21003,-0.10754,0.71577,0.27173,0.41425,0.20591,35
+Mid block + Possession control,CM,avg_pass_len,Average pass length,0.30146,0.19978,-0.09012,0.69303,0.17383,0.41425,0.20946,35
+Mid block + Possession control,AM/W,prog_passes_p90,Progressive passes /90,0.13565,0.11824,-0.09609,0.3674,0.23277,0.39903,0.07709,59
+Mid block + Possession control,AM/W,key_passes_p90,Key passes /90,0.24364,0.09942,0.04878,0.43851,0.02298,0.09191,0.20887,59
+Mid block + Possession control,AM/W,xa_p90,xA /90,0.30881,0.1942,-0.07182,0.68943,0.03996,0.11988,0.2213,59
+Mid block + Possession control,AM/W,shots_p90,Shots /90,0.12025,0.16156,-0.1964,0.43689,0.52847,0.57978,0.04287,59
+Mid block + Possession control,AM/W,xg_p90,xG /90,0.36656,0.21704,-0.05885,0.79196,0.11189,0.22378,0.2714,59
+Mid block + Possession control,AM/W,dribbles_p90,Dribbles /90,0.14048,0.22753,-0.30549,0.58644,0.46553,0.57978,0.03877,59
+Mid block + Possession control,AM/W,prog_carries_p90,Progressive carries /90,0.24185,0.13755,-0.02774,0.51144,0.06693,0.16064,0.18274,59
+Mid block + Possession control,AM/W,def_actions_p90,Defensive actions /90,-0.09304,0.1795,-0.44485,0.25878,0.53147,0.57978,-0.0197,59
+Mid block + Possession control,AM/W,pressures_p90,Pressures /90,-0.05734,0.18819,-0.42619,0.31151,0.7003,0.7003,-0.00487,59
+Mid block + Possession control,AM/W,crosses_p90,Crosses /90,-0.28505,0.15829,-0.5953,0.0252,0.01199,0.07193,-0.21787,59
+Mid block + Possession control,AM/W,pass_completion,Pass completion,0.50456,0.12781,0.25406,0.75507,0.005,0.05994,0.47414,59
+Mid block + Possession control,AM/W,avg_pass_len,Average pass length,-0.18028,0.21003,-0.59194,0.23137,0.32567,0.48851,-0.07648,59
+Mid block + Possession control,FW,prog_passes_p90,Progressive passes /90,-0.34213,0.15188,-0.63981,-0.04445,0.07293,0.6953,-0.2858,44
+Mid block + Possession control,FW,key_passes_p90,Key passes /90,0.05129,0.1835,-0.30837,0.41095,0.80819,0.999,0.00372,44
+Mid block + Possession control,FW,xa_p90,xA /90,-0.11752,0.21129,-0.53164,0.29661,0.52448,0.999,-0.02777,44
+Mid block + Possession control,FW,shots_p90,Shots /90,0.03393,0.13887,-0.23826,0.30613,0.79321,0.999,0.00191,44
+Mid block + Possession control,FW,xg_p90,xG /90,0.01291,0.16852,-0.3174,0.34322,0.92108,0.999,8e-05,44
+Mid block + Possession control,FW,dribbles_p90,Dribbles /90,-0.21346,0.14494,-0.49753,0.07062,0.22078,0.88312,-0.1461,44
+Mid block + Possession control,FW,prog_carries_p90,Progressive carries /90,-0.24079,0.10334,-0.44334,-0.03824,0.11588,0.6953,-0.20333,44
+Mid block + Possession control,FW,def_actions_p90,Defensive actions /90,-0.00087,0.22387,-0.43966,0.43791,0.999,0.999,-0.0,44
+Mid block + Possession control,FW,pressures_p90,Pressures /90,0.00879,0.21155,-0.40585,0.42343,0.96503,0.999,2e-05,44
+Mid block + Possession control,FW,crosses_p90,Crosses /90,-0.02358,0.10206,-0.22361,0.17645,0.8032,0.999,-0.0012,44
+Mid block + Possession control,FW,pass_completion,Pass completion,0.13801,0.16365,-0.18274,0.45876,0.37762,0.999,0.05736,44
+Mid block + Possession control,FW,avg_pass_len,Average pass length,0.0449,0.10233,-0.15567,0.24546,0.73926,0.999,0.00725,44
+Mid block + Direct build-up,DEF,prog_passes_p90,Progressive passes /90,0.14535,0.08847,-0.02805,0.31875,0.15085,0.41718,0.10606,129
+Mid block + Direct build-up,DEF,key_passes_p90,Key passes /90,0.05604,0.06709,-0.07546,0.18753,0.47053,0.62737,0.02303,129
+Mid block + Direct build-up,DEF,xa_p90,xA /90,0.00995,0.09006,-0.16656,0.18647,0.91808,0.91808,0.00012,129
+Mid block + Direct build-up,DEF,shots_p90,Shots /90,0.03061,0.08606,-0.13808,0.1993,0.77323,0.84352,0.00344,129
+Mid block + Direct build-up,DEF,xg_p90,xG /90,0.09219,0.07046,-0.0459,0.23029,0.3027,0.51891,0.0582,129
+Mid block + Direct build-up,DEF,dribbles_p90,Dribbles /90,0.08644,0.07154,-0.05378,0.22665,0.25275,0.50549,0.0513,129
+Mid block + Direct build-up,DEF,prog_carries_p90,Progressive carries /90,0.04078,0.06624,-0.08904,0.17061,0.58342,0.7001,0.01121,129
+Mid block + Direct build-up,DEF,def_actions_p90,Defensive actions /90,-0.44557,0.15932,-0.75784,-0.1333,0.00799,0.0959,-0.39506,129
+Mid block + Direct build-up,DEF,pressures_p90,Pressures /90,-0.28237,0.1355,-0.54795,-0.0168,0.03996,0.23976,-0.22953,129
+Mid block + Direct build-up,DEF,crosses_p90,Crosses /90,0.06297,0.06507,-0.06456,0.1905,0.35664,0.53497,0.03045,129
+Mid block + Direct build-up,DEF,pass_completion,Pass completion,-0.31276,0.18796,-0.68117,0.05565,0.08192,0.32767,-0.22977,129
+Mid block + Direct build-up,DEF,avg_pass_len,Average pass length,0.11806,0.09484,-0.06782,0.30394,0.17383,0.41718,0.07176,129
+Mid block + Direct build-up,DM,prog_passes_p90,Progressive passes /90,0.21817,0.16609,-0.10736,0.54371,0.15485,0.61938,0.13813,53
+Mid block + Direct build-up,DM,key_passes_p90,Key passes /90,-0.10416,0.14813,-0.3945,0.18619,0.45255,0.64202,-0.03446,53
+Mid block + Direct build-up,DM,xa_p90,xA /90,-0.12078,0.12966,-0.3749,0.13335,0.36464,0.64202,-0.05611,53
+Mid block + Direct build-up,DM,shots_p90,Shots /90,0.09006,0.11662,-0.13852,0.31864,0.48152,0.64202,0.03365,53
+Mid block + Direct build-up,DM,xg_p90,xG /90,0.00951,0.14412,-0.27298,0.29199,0.94705,0.94705,4e-05,53
+Mid block + Direct build-up,DM,dribbles_p90,Dribbles /90,-0.16782,0.13951,-0.44126,0.10563,0.33966,0.64202,-0.09923,53
+Mid block + Direct build-up,DM,prog_carries_p90,Progressive carries /90,-0.34803,0.16547,-0.67235,-0.02371,0.03497,0.21578,-0.28387,53
+Mid block + Direct build-up,DM,def_actions_p90,Defensive actions /90,-0.12113,0.171,-0.45629,0.21404,0.44356,0.64202,-0.04047,53
+Mid block + Direct build-up,DM,pressures_p90,Pressures /90,-0.08523,0.16813,-0.41477,0.24431,0.56444,0.67732,-0.01742,53
+Mid block + Direct build-up,DM,crosses_p90,Crosses /90,-0.02523,0.15233,-0.3238,0.27333,0.84016,0.91654,-0.00067,53
+Mid block + Direct build-up,DM,pass_completion,Pass completion,-0.39848,0.18989,-0.77066,-0.0263,0.03596,0.21578,-0.32474,53
+Mid block + Direct build-up,DM,avg_pass_len,Average pass length,0.20123,0.19709,-0.18507,0.58754,0.21678,0.64202,0.10271,53
+Mid block + Direct build-up,CM,prog_passes_p90,Progressive passes /90,0.10954,0.16915,-0.22198,0.44107,0.59341,0.71209,0.03237,35
+Mid block + Direct build-up,CM,key_passes_p90,Key passes /90,0.08583,0.22941,-0.36381,0.53548,0.68931,0.75198,0.01054,35
+Mid block + Direct build-up,CM,xa_p90,xA /90,0.22518,0.21159,-0.18953,0.63989,0.2967,0.6953,0.11959,35
+Mid block + Direct build-up,CM,shots_p90,Shots /90,0.29221,0.20143,-0.1026,0.68702,0.08392,0.5035,0.19808,35
+Mid block + Direct build-up,CM,xg_p90,xG /90,0.26288,0.17733,-0.08469,0.61045,0.05295,0.5035,0.18066,35
+Mid block + Direct build-up,CM,dribbles_p90,Dribbles /90,0.03783,0.19629,-0.34689,0.42255,0.83616,0.83616,0.00136,35
+Mid block + Direct build-up,CM,prog_carries_p90,Progressive carries /90,0.0914,0.18234,-0.266,0.44879,0.52148,0.6953,0.01835,35
+Mid block + Direct build-up,CM,def_actions_p90,Defensive actions /90,0.20621,0.29073,-0.36362,0.77603,0.42458,0.6953,0.06902,35
+Mid block + Direct build-up,CM,pressures_p90,Pressures /90,0.23728,0.30064,-0.35196,0.82653,0.37463,0.6953,0.09108,35
+Mid block + Direct build-up,CM,crosses_p90,Crosses /90,0.14717,0.23341,-0.31031,0.60465,0.48252,0.6953,0.04186,35
+Mid block + Direct build-up,CM,pass_completion,Pass completion,-0.30634,0.27185,-0.83916,0.22649,0.27373,0.6953,-0.17138,35
+Mid block + Direct build-up,CM,avg_pass_len,Average pass length,-0.2322,0.3166,-0.85274,0.38834,0.3017,0.6953,-0.08122,35
+Mid block + Direct build-up,AM/W,prog_passes_p90,Progressive passes /90,0.00223,0.11943,-0.23184,0.2363,0.98202,0.98202,0.0,59
+Mid block + Direct build-up,AM/W,key_passes_p90,Key passes /90,-0.00714,0.13867,-0.27893,0.26466,0.95005,0.98202,-2e-05,59
+Mid block + Direct build-up,AM/W,xa_p90,xA /90,-0.04379,0.16689,-0.3709,0.28332,0.77522,0.98202,-0.00282,59
+Mid block + Direct build-up,AM/W,shots_p90,Shots /90,-0.18059,0.24072,-0.6524,0.29121,0.35764,0.98202,-0.06504,59
+Mid block + Direct build-up,AM/W,xg_p90,xG /90,-0.2587,0.31332,-0.87281,0.3554,0.26673,0.98202,-0.10488,59
+Mid block + Direct build-up,AM/W,dribbles_p90,Dribbles /90,-0.01825,0.19656,-0.40352,0.36702,0.92607,0.98202,-0.00016,59
+Mid block + Direct build-up,AM/W,prog_carries_p90,Progressive carries /90,-0.05897,0.14695,-0.34699,0.22904,0.6953,0.98202,-0.00818,59
+Mid block + Direct build-up,AM/W,def_actions_p90,Defensive actions /90,0.01751,0.19327,-0.3613,0.39632,0.91309,0.98202,0.00014,59
+Mid block + Direct build-up,AM/W,pressures_p90,Pressures /90,0.04011,0.19259,-0.33737,0.41759,0.77522,0.98202,0.00167,59
+Mid block + Direct build-up,AM/W,crosses_p90,Crosses /90,0.23275,0.14168,-0.04494,0.51045,0.04795,0.28771,0.16983,59
+Mid block + Direct build-up,AM/W,pass_completion,Pass completion,-0.3515,0.17504,-0.69457,-0.00842,0.01299,0.15584,-0.28165,59
+Mid block + Direct build-up,AM/W,avg_pass_len,Average pass length,0.14159,0.18679,-0.22451,0.50769,0.42458,0.98202,0.05167,59
+Mid block + Direct build-up,FW,prog_passes_p90,Progressive passes /90,0.16591,0.19297,-0.21231,0.54414,0.3986,0.92208,0.07052,44
+Mid block + Direct build-up,FW,key_passes_p90,Key passes /90,-0.05463,0.15895,-0.36618,0.25691,0.77323,0.92208,-0.00577,44
+Mid block + Direct build-up,FW,xa_p90,xA /90,0.21202,0.15971,-0.10101,0.52505,0.25075,0.92208,0.13527,44
+Mid block + Direct build-up,FW,shots_p90,Shots /90,-0.06494,0.13027,-0.32027,0.19039,0.64635,0.92208,-0.01293,44
+Mid block + Direct build-up,FW,xg_p90,xG /90,0.06825,0.14797,-0.22178,0.35828,0.63636,0.92208,0.01197,44
+Mid block + Direct build-up,FW,dribbles_p90,Dribbles /90,0.10226,0.14467,-0.18129,0.38581,0.56244,0.92208,0.03407,44
+Mid block + Direct build-up,FW,prog_carries_p90,Progressive carries /90,0.17493,0.1218,-0.06379,0.41365,0.25475,0.92208,0.11782,44
+Mid block + Direct build-up,FW,def_actions_p90,Defensive actions /90,0.02361,0.24131,-0.44935,0.49657,0.92208,0.92208,0.00022,44
+Mid block + Direct build-up,FW,pressures_p90,Pressures /90,0.07161,0.20311,-0.32648,0.46971,0.73826,0.92208,0.00792,44
+Mid block + Direct build-up,FW,crosses_p90,Crosses /90,0.01695,0.11512,-0.20868,0.24258,0.8961,0.92208,0.00036,44
+Mid block + Direct build-up,FW,pass_completion,Pass completion,-0.05284,0.15328,-0.35326,0.24759,0.72727,0.92208,-0.00561,44
+Mid block + Direct build-up,FW,avg_pass_len,Average pass length,-0.13594,0.1336,-0.3978,0.12591,0.34066,0.92208,-0.06916,44
+Low block + Possession control,DEF,prog_passes_p90,Progressive passes /90,-0.18334,0.07985,-0.33985,-0.02683,0.06793,0.27173,-0.1541,129
+Low block + Possession control,DEF,key_passes_p90,Key passes /90,-0.08226,0.08811,-0.25496,0.09044,0.26274,0.39411,-0.03831,129
+Low block + Possession control,DEF,xa_p90,xA /90,-0.07976,0.12019,-0.31534,0.15581,0.3966,0.5288,-0.02439,129
+Low block + Possession control,DEF,shots_p90,Shots /90,-0.11658,0.07403,-0.26168,0.02852,0.23177,0.39411,-0.08308,129
+Low block + Possession control,DEF,xg_p90,xG /90,-0.0295,0.08807,-0.20213,0.14313,0.70929,0.70929,-0.00298,129
+Low block + Possession control,DEF,dribbles_p90,Dribbles /90,-0.03608,0.12598,-0.283,0.21084,0.64436,0.70929,-0.00273,129
+Low block + Possession control,DEF,prog_carries_p90,Progressive carries /90,0.03406,0.09173,-0.14573,0.21386,0.7023,0.70929,0.00413,129
+Low block + Possession control,DEF,def_actions_p90,Defensive actions /90,0.27784,0.23007,-0.1731,0.72879,0.13986,0.39411,0.16482,129
+Low block + Possession control,DEF,pressures_p90,Pressures /90,0.1782,0.17982,-0.17425,0.53064,0.23576,0.39411,0.08829,129
+Low block + Possession control,DEF,crosses_p90,Crosses /90,-0.08055,0.05912,-0.19643,0.03533,0.23077,0.39411,-0.05235,129
+Low block + Possession control,DEF,pass_completion,Pass completion,0.38605,0.22798,-0.06079,0.83288,0.04196,0.25175,0.28623,129
+Low block + Possession control,DEF,avg_pass_len,Average pass length,-0.19598,0.10079,-0.39353,0.00156,0.02298,0.25175,-0.15499,129
+Low block + Possession control,DM,prog_passes_p90,Progressive passes /90,-0.32019,0.14798,-0.61023,-0.03015,0.02697,0.10789,-0.26384,53
+Low block + Possession control,DM,key_passes_p90,Key passes /90,-0.08959,0.20068,-0.48292,0.30373,0.56743,0.77595,-0.01489,53
+Low block + Possession control,DM,xa_p90,xA /90,-0.08177,0.17947,-0.43353,0.26999,0.55944,0.77595,-0.01406,53
+Low block + Possession control,DM,shots_p90,Shots /90,-0.1544,0.25596,-0.65608,0.34729,0.21878,0.43756,-0.04119,53
+Low block + Possession control,DM,xg_p90,xG /90,-0.2235,0.19711,-0.60983,0.16282,0.1019,0.24456,-0.12573,53
+Low block + Possession control,DM,dribbles_p90,Dribbles /90,0.06949,0.1618,-0.24765,0.38662,0.65435,0.77595,0.01082,53
+Low block + Possession control,DM,prog_carries_p90,Progressive carries /90,0.3659,0.20871,-0.04317,0.77497,0.02498,0.10789,0.27607,53
+Low block + Possession control,DM,def_actions_p90,Defensive actions /90,0.07229,0.24523,-0.40835,0.55293,0.67133,0.77595,0.00578,53
+Low block + Possession control,DM,pressures_p90,Pressures /90,0.04092,0.24545,-0.44016,0.52199,0.81019,0.81019,0.00111,53
+Low block + Possession control,DM,crosses_p90,Crosses /90,-0.0588,0.23676,-0.52286,0.40526,0.71129,0.77595,-0.00342,53
+Low block + Possession control,DM,pass_completion,Pass completion,0.45725,0.23926,-0.0117,0.9262,0.02697,0.10789,0.35896,53
+Low block + Possession control,DM,avg_pass_len,Average pass length,-0.28536,0.19321,-0.66406,0.09333,0.07592,0.22777,-0.19566,53
+Low block + Possession control,CM,prog_passes_p90,Progressive passes /90,-0.07644,0.19499,-0.45861,0.30573,0.7033,0.7033,-0.01018,35
+Low block + Possession control,CM,key_passes_p90,Key passes /90,-0.32864,0.20602,-0.73245,0.07516,0.15584,0.58501,-0.23593,35
+Low block + Possession control,CM,xa_p90,xA /90,-0.31952,0.22901,-0.76839,0.12935,0.15085,0.58501,-0.21108,35
+Low block + Possession control,CM,shots_p90,Shots /90,-0.23153,0.30867,-0.83652,0.37346,0.24376,0.58501,-0.08336,35
+Low block + Possession control,CM,xg_p90,xG /90,-0.26227,0.23556,-0.72397,0.19942,0.12088,0.58501,-0.14517,35
+Low block + Possession control,CM,dribbles_p90,Dribbles /90,-0.06516,0.17481,-0.40778,0.27746,0.6963,0.7033,-0.00795,35
+Low block + Possession control,CM,prog_carries_p90,Progressive carries /90,-0.11734,0.14671,-0.40489,0.1702,0.45854,0.7033,-0.04578,35
+Low block + Possession control,CM,def_actions_p90,Defensive actions /90,0.17136,0.34356,-0.50202,0.84473,0.53746,0.7033,0.03414,35
+Low block + Possession control,CM,pressures_p90,Pressures /90,0.19314,0.37,-0.53207,0.91834,0.4955,0.7033,0.04136,35
+Low block + Possession control,CM,crosses_p90,Crosses /90,-0.26654,0.26056,-0.77724,0.24417,0.23177,0.58501,-0.13629,35
+Low block + Possession control,CM,pass_completion,Pass completion,0.26324,0.29065,-0.30643,0.83291,0.41758,0.7033,0.11863,35
+Low block + Possession control,CM,avg_pass_len,Average pass length,0.08276,0.32269,-0.54972,0.71523,0.67233,0.7033,0.00511,35
+Low block + Possession control,AM/W,prog_passes_p90,Progressive passes /90,0.01317,0.15039,-0.2816,0.30794,0.92408,0.92408,0.0001,59
+Low block + Possession control,AM/W,key_passes_p90,Key passes /90,0.03872,0.18008,-0.31424,0.39168,0.73826,0.92408,0.00171,59
+Low block + Possession control,AM/W,xa_p90,xA /90,-0.03654,0.22808,-0.48359,0.4105,0.81019,0.92408,-0.00091,59
+Low block + Possession control,AM/W,shots_p90,Shots /90,-0.03217,0.24356,-0.50954,0.4452,0.86414,0.92408,-0.00055,59
+Low block + Possession control,AM/W,xg_p90,xG /90,0.09493,0.30783,-0.50841,0.69828,0.68132,0.92408,0.00824,59
+Low block + Possession control,AM/W,dribbles_p90,Dribbles /90,0.02911,0.23005,-0.42179,0.48002,0.89211,0.92408,0.00046,59
+Low block + Possession control,AM/W,prog_carries_p90,Progressive carries /90,0.03689,0.16602,-0.28851,0.36229,0.77822,0.92408,0.00174,59
+Low block + Possession control,AM/W,def_actions_p90,Defensive actions /90,0.10283,0.19732,-0.28391,0.48957,0.52647,0.92408,0.02196,59
+Low block + Possession control,AM/W,pressures_p90,Pressures /90,0.18666,0.20823,-0.22148,0.59479,0.25175,0.75524,0.08316,59
+Low block + Possession control,AM/W,crosses_p90,Crosses /90,-0.32963,0.1078,-0.54092,-0.11834,0.02398,0.20979,-0.29778,59
+Low block + Possession control,AM/W,pass_completion,Pass completion,0.38719,0.18152,0.03141,0.74297,0.03497,0.20979,0.31742,59
+Low block + Possession control,AM/W,avg_pass_len,Average pass length,-0.25213,0.17027,-0.58585,0.08159,0.18781,0.75125,-0.17316,59
+Low block + Possession control,FW,prog_passes_p90,Progressive passes /90,-0.33804,0.1899,-0.71025,0.03417,0.06494,0.76124,-0.25695,44
+Low block + Possession control,FW,key_passes_p90,Key passes /90,-0.13395,0.21848,-0.56217,0.29427,0.43756,0.88493,-0.0366,44
+Low block + Possession control,FW,xa_p90,xA /90,-0.04794,0.25856,-0.55471,0.45883,0.81119,0.88493,-0.00159,44
+Low block + Possession control,FW,shots_p90,Shots /90,0.05134,0.14662,-0.23602,0.33871,0.71229,0.88493,0.00561,44
+Low block + Possession control,FW,xg_p90,xG /90,-0.00872,0.24853,-0.49584,0.4784,0.95504,0.95504,-1e-05,44
+Low block + Possession control,FW,dribbles_p90,Dribbles /90,-0.09258,0.22092,-0.52558,0.34042,0.56244,0.88493,-0.01383,44
+Low block + Possession control,FW,prog_carries_p90,Progressive carries /90,-0.148,0.15199,-0.44589,0.1499,0.33666,0.88493,-0.07203,44
+Low block + Possession control,FW,def_actions_p90,Defensive actions /90,-0.05872,0.19324,-0.43746,0.32003,0.78621,0.88493,-0.00496,44
+Low block + Possession control,FW,pressures_p90,Pressures /90,-0.07359,0.1579,-0.38306,0.23589,0.66034,0.88493,-0.01313,44
+Low block + Possession control,FW,crosses_p90,Crosses /90,-0.16914,0.12215,-0.40855,0.07027,0.12687,0.76124,-0.11117,44
+Low block + Possession control,FW,pass_completion,Pass completion,0.1176,0.13446,-0.14595,0.38115,0.46054,0.88493,0.05097,44
+Low block + Possession control,FW,avg_pass_len,Average pass length,0.15937,0.11541,-0.06682,0.38557,0.23077,0.88493,0.10455,44
+Low block + Direct build-up,DEF,prog_passes_p90,Progressive passes /90,-0.05827,0.12017,-0.2938,0.17727,0.54545,0.95638,-0.01109,129
+Low block + Direct build-up,DEF,key_passes_p90,Key passes /90,-0.03249,0.07589,-0.18123,0.11625,0.65235,0.95638,-0.00503,129
+Low block + Direct build-up,DEF,xa_p90,xA /90,-0.10191,0.08698,-0.27238,0.06857,0.27373,0.95638,-0.05896,129
+Low block + Direct build-up,DEF,shots_p90,Shots /90,0.07685,0.09908,-0.11734,0.27105,0.48352,0.95638,0.02887,129
+Low block + Direct build-up,DEF,xg_p90,xG /90,0.05394,0.08514,-0.11293,0.2208,0.56244,0.95638,0.01545,129
+Low block + Direct build-up,DEF,dribbles_p90,Dribbles /90,0.03289,0.07159,-0.10742,0.1732,0.67532,0.95638,0.00573,129
+Low block + Direct build-up,DEF,prog_carries_p90,Progressive carries /90,-0.00662,0.06548,-0.13497,0.12173,0.93706,0.97802,-7e-05,129
+Low block + Direct build-up,DEF,def_actions_p90,Defensive actions /90,-0.33114,0.15847,-0.64175,-0.02053,0.09491,0.56943,-0.26943,129
+Low block + Direct build-up,DEF,pressures_p90,Pressures /90,-0.30904,0.12892,-0.56172,-0.05636,0.04795,0.56943,-0.26323,129
+Low block + Direct build-up,DEF,crosses_p90,Crosses /90,-0.02392,0.06492,-0.15116,0.10333,0.71728,0.95638,-0.00286,129
+Low block + Direct build-up,DEF,pass_completion,Pass completion,0.03027,0.20122,-0.36412,0.42466,0.8971,0.97802,0.00067,129
+Low block + Direct build-up,DEF,avg_pass_len,Average pass length,-0.0022,0.09064,-0.17985,0.17546,0.97802,0.97802,-0.0,129
+Low block + Direct build-up,DM,prog_passes_p90,Progressive passes /90,0.01592,0.14157,-0.26157,0.2934,0.92408,0.98302,0.0002,53
+Low block + Direct build-up,DM,key_passes_p90,Key passes /90,-0.05198,0.11801,-0.28328,0.17932,0.72228,0.98302,-0.00845,53
+Low block + Direct build-up,DM,xa_p90,xA /90,-0.00303,0.10803,-0.21477,0.20872,0.98302,0.98302,-0.0,53
+Low block + Direct build-up,DM,shots_p90,Shots /90,-0.00995,0.10149,-0.20887,0.18897,0.94605,0.98302,-9e-05,53
+Low block + Direct build-up,DM,xg_p90,xG /90,0.0525,0.14558,-0.23284,0.33785,0.72627,0.98302,0.00604,53
+Low block + Direct build-up,DM,dribbles_p90,Dribbles /90,0.00858,0.20412,-0.39149,0.40864,0.95305,0.98302,2e-05,53
+Low block + Direct build-up,DM,prog_carries_p90,Progressive carries /90,0.04294,0.15867,-0.26805,0.35394,0.8012,0.98302,0.00293,53
+Low block + Direct build-up,DM,def_actions_p90,Defensive actions /90,-0.14045,0.15659,-0.44736,0.16646,0.43457,0.98302,-0.06262,53
+Low block + Direct build-up,DM,pressures_p90,Pressures /90,-0.09675,0.16665,-0.42339,0.22989,0.59141,0.98302,-0.02439,53
+Low block + Direct build-up,DM,crosses_p90,Crosses /90,-0.1978,0.1398,-0.47182,0.07622,0.18482,0.98302,-0.13191,53
+Low block + Direct build-up,DM,pass_completion,Pass completion,0.08202,0.17217,-0.25543,0.41948,0.69331,0.98302,0.01517,53
+Low block + Direct build-up,DM,avg_pass_len,Average pass length,-0.29465,0.1367,-0.56259,-0.02671,0.05994,0.71928,-0.24246,53
+Low block + Direct build-up,CM,prog_passes_p90,Progressive passes /90,-0.19641,0.19037,-0.56954,0.17672,0.34765,0.62787,-0.10127,35
+Low block + Direct build-up,CM,key_passes_p90,Key passes /90,0.20292,0.21392,-0.21637,0.6222,0.35065,0.62787,0.0961,35
+Low block + Direct build-up,CM,xa_p90,xA /90,0.03265,0.21655,-0.39179,0.45709,0.88511,0.88511,0.00073,35
+Low block + Direct build-up,CM,shots_p90,Shots /90,0.0273,0.19586,-0.35658,0.41118,0.86913,0.88511,0.00052,35
+Low block + Direct build-up,CM,xg_p90,xG /90,-0.06181,0.13066,-0.3179,0.19428,0.64535,0.77443,-0.0113,35
+Low block + Direct build-up,CM,dribbles_p90,Dribbles /90,0.34606,0.17988,-0.0065,0.69862,0.05794,0.34765,0.27245,35
+Low block + Direct build-up,CM,prog_carries_p90,Progressive carries /90,0.29708,0.15734,-0.01131,0.60547,0.05694,0.34765,0.232,35
+Low block + Direct build-up,CM,def_actions_p90,Defensive actions /90,-0.28001,0.26327,-0.79602,0.23601,0.29471,0.62787,-0.14862,35
+Low block + Direct build-up,CM,pressures_p90,Pressures /90,-0.23908,0.24569,-0.72063,0.24247,0.37762,0.62787,-0.11628,35
+Low block + Direct build-up,CM,crosses_p90,Crosses /90,0.18927,0.20806,-0.21853,0.59706,0.3976,0.62787,0.0857,35
+Low block + Direct build-up,CM,pass_completion,Pass completion,-0.2465,0.30691,-0.84805,0.35505,0.41858,0.62787,-0.09666,35
+Low block + Direct build-up,CM,avg_pass_len,Average pass length,-0.14758,0.19999,-0.53956,0.24439,0.50549,0.67399,-0.05204,35
+Low block + Direct build-up,AM/W,prog_passes_p90,Progressive passes /90,-0.02221,0.10996,-0.23772,0.19331,0.82917,0.96304,-0.00087,59
+Low block + Direct build-up,AM/W,key_passes_p90,Key passes /90,0.04344,0.1033,-0.15903,0.24591,0.71828,0.96304,0.00653,59
+Low block + Direct build-up,AM/W,xa_p90,xA /90,-0.01915,0.14094,-0.2954,0.2571,0.8981,0.96304,-0.00035,59
+Low block + Direct build-up,AM/W,shots_p90,Shots /90,0.10759,0.18081,-0.2468,0.46198,0.56344,0.96304,0.02813,59
+Low block + Direct build-up,AM/W,xg_p90,xG /90,-0.0284,0.23367,-0.48639,0.42959,0.91808,0.96304,-0.00041,59
+Low block + Direct build-up,AM/W,dribbles_p90,Dribbles /90,0.15942,0.18429,-0.20179,0.52064,0.39161,0.96304,0.06824,59
+Low block + Direct build-up,AM/W,prog_carries_p90,Progressive carries /90,0.19162,0.14953,-0.10145,0.48469,0.16683,0.96304,0.1191,59
+Low block + Direct build-up,AM/W,def_actions_p90,Defensive actions /90,-0.22722,0.15374,-0.52854,0.07411,0.13586,0.96304,-0.15586,59
+Low block + Direct build-up,AM/W,pressures_p90,Pressures /90,-0.16683,0.13552,-0.43245,0.09878,0.25974,0.96304,-0.10051,59
+Low block + Direct build-up,AM/W,crosses_p90,Crosses /90,0.08129,0.15816,-0.2287,0.39128,0.48851,0.96304,0.01698,59
+Low block + Direct build-up,AM/W,pass_completion,Pass completion,0.0078,0.17055,-0.32648,0.34208,0.96304,0.96304,2e-05,59
+Low block + Direct build-up,AM/W,avg_pass_len,Average pass length,0.10447,0.19475,-0.27725,0.48618,0.57343,0.96304,0.02334,59
+Low block + Direct build-up,FW,prog_passes_p90,Progressive passes /90,0.31185,0.12483,0.06717,0.55652,0.08691,0.27401,0.26878,44
+Low block + Direct build-up,FW,key_passes_p90,Key passes /90,0.10199,0.16268,-0.21686,0.42085,0.59341,0.71209,0.02878,44
+Low block + Direct build-up,FW,xa_p90,xA /90,0.0419,0.15668,-0.2652,0.349,0.81419,0.8882,0.0028,44
+Low block + Direct build-up,FW,shots_p90,Shots /90,-0.06954,0.11157,-0.28822,0.14914,0.57542,0.71209,-0.01945,44
+Low block + Direct build-up,FW,xg_p90,xG /90,-0.22692,0.11323,-0.44886,-0.00498,0.12388,0.27401,-0.18168,44
+Low block + Direct build-up,FW,dribbles_p90,Dribbles /90,0.24978,0.13914,-0.02293,0.52249,0.14985,0.27401,0.19063,44
+Low block + Direct build-up,FW,prog_carries_p90,Progressive carries /90,0.34887,0.10124,0.15044,0.54731,0.00699,0.08392,0.32178,44
+Low block + Direct build-up,FW,def_actions_p90,Defensive actions /90,-0.32742,0.22412,-0.7667,0.11186,0.12288,0.27401,-0.22296,44
+Low block + Direct build-up,FW,pressures_p90,Pressures /90,-0.27045,0.21252,-0.68698,0.14608,0.15984,0.27401,-0.16721,44
+Low block + Direct build-up,FW,crosses_p90,Crosses /90,0.1315,0.08882,-0.04258,0.30558,0.25774,0.38661,0.09031,44
+Low block + Direct build-up,FW,pass_completion,Pass completion,0.00033,0.15796,-0.30927,0.30994,0.999,0.999,0.0,44
+Low block + Direct build-up,FW,avg_pass_len,Average pass length,0.24727,0.10516,0.04116,0.45338,0.06294,0.27401,0.2094,44

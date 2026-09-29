@@ -1,0 +1,7 @@
+﻿plan,n_teams,spearman_rho,null_2p5,null_97p5,p_perm_two_sided,p_bh,rho_usage_not_strength_adjusted,p_usage_not_strength_adjusted
+High press + Possession control,81,0.6045,-0.3664,0.2485,0.001,0.006,0.7685,0.001
+High press + Direct build-up,81,0.5322,-0.385,0.262,0.002,0.006,0.585,0.003
+Mid block + Possession control,81,0.5113,-0.3429,0.2698,0.004,0.008,0.6956,0.001
+Mid block + Direct build-up,81,0.4348,-0.3772,0.2559,0.018,0.021,0.5863,0.001
+Low block + Possession control,81,0.4024,-0.3709,0.2604,0.021,0.021,0.5344,0.004
+Low block + Direct build-up,81,0.4134,-0.361,0.2639,0.016,0.021,0.6674,0.001

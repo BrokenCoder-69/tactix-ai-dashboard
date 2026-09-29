@@ -1,0 +1,7 @@
+metric,goal model,naive (prior league H/D/A rates)
+"Brier score (3 outcomes, lower = better)",0.5850093333475197,0.6393348467677782
+Log loss (lower = better),0.9855462051988169,1.0605102871759418
+Ranked probability score (lower = better),0.20383019335301908,0.2279686760384072
+MAE home goals,1.014529389957235,
+MAE away goals,0.8115904486842946,
+Mean predicted vs actual total goals,2.551116973277767,2.7864864864864867

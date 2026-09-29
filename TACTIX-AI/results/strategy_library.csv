@@ -1,0 +1,8 @@
+strategy,measured by (tactical window),assumption,expected mechanism / benefit,risk
+High press,"Pressing index in the top tercile (PPDA low, defensive actions high)",Win the ball early and near goal,Short attacks after high regains; opponent build-up disrupted,Space behind the defensive line; physical cost
+Mid block,Pressing index in the middle tercile,Balance between pressure and protection,Compact and flexible,May cede initiative
+Low block,"Pressing index in the bottom tercile (PPDA high, defensive actions deep)","Protect the box, invite the opponent forward",Fewer shots from central areas; space to counter,"Territorial pressure, crosses and set pieces against"
+Wide progression,Share of final-third passes from the wings in the top tercile,Stretch the defence and attack from wide areas,"Crosses, overloads on the flanks",Crosses are low-value chances on average
+Central progression,Share of final-third passes from the wings in the bottom tercile,Attack through the centre and half-spaces,Higher-quality chances if successful,Congested zone; central turnovers lead to counters
+Direct play,Mean forward component of open-play passes (cos θ) in the top tercile,Move the ball forward quickly,Fewer passes to reach the final third; less time for the opponent to set,Lower completion; more turnovers
+Possession control,Pass share in the top tercile,Dominate the ball,"Territorial control, fewer opponent possessions",Strongly determined by opponent strength

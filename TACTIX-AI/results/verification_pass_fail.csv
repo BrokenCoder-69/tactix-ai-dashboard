@@ -1,0 +1,23 @@
+check,result,detail
+Full thesis run (all matches),PASS,FULL THESIS RUN; 380 matches with events
+No duplicate event ids,PASS,
+Score reconstruction = official results (≥ 99.9 %),PASS,100.00%
+ML split: no match in both train and test,PASS,
+ML split: test after training period,PASS,
+Leakage design checks all passed,PASS,
+No feature with single-feature AUC ≥ 0.90 left unflagged,PASS,
+Expectation model uses prior matches only,PASS,
+Expectation model beats naive team-mean guess (MAE),PASS,0.504 vs 0.534
+Suppression analysis uses prior matches only,PASS,
+Backtest uses prior matches only,PASS,
+Goal model beats naive baseline (Brier),PASS,0.5850 vs 0.6393
+Block labels balanced (each 20–45 %),PASS,
+Random seed fixed,PASS,RS = 42
+"Monte Carlo uses ≥ 20,000 matches per plan",PASS,"20,000"
+Selected plan is feasible for the home team,PASS,
+Selected plan has no conditional (outcome-defined) component,PASS,
+No negative expected npxG shown,PASS,
+Recommendation wording avoids 'best tactic' claims,PASS,
+Figures saved (≥ 25),PASS,42 figures
+Result tables saved (≥ 40),PASS,43 tables
+SHAP / LIME executed,PASS,run_xai = True

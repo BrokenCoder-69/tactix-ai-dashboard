@@ -1,0 +1,56 @@
+{
+  "run_mode": "FULL THESIS RUN",
+  "run_started": "2026-09-24T02:11:57",
+  "python": "3.14.6",
+  "pandas": "3.0.3",
+  "numpy": "2.4.6",
+  "n_matches": 380,
+  "competition_name": "La Liga",
+  "season_name": "2015/2016",
+  "country_name": "Spain",
+  "data_dir": "F:\\Thesis\\Eidai Final kosom\\TACTIX-AI\\data",
+  "fig_dir": "F:\\Thesis\\Eidai Final kosom\\TACTIX-AI\\figures",
+  "test_mode_n_matches": null,
+  "request_delay_sec": 0.05,
+  "run_xai": true,
+  "home_team": "Barcelona",
+  "rival_team": "Real Madrid",
+  "random_state": 42,
+  "test_split_fraction": 0.2,
+  "val_split_fraction": 0.15,
+  "n_cv_folds": 5,
+  "first_n_events": 5,
+  "xg_threshold": 0.05,
+  "xg_threshold_grid": [
+    0.05,
+    0.1,
+    0.15
+  ],
+  "min_minutes": 900,
+  "cluster_k_range": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_simulations": 2000,
+  "marking_efficiency_grid": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "redistribution_grid": [
+    0.0,
+    0.5
+  ],
+  "press_shift_m_per_unit": 8.0,
+  "press_levels": [
+    0.0,
+    0.5,
+    0.8
+  ]
+}

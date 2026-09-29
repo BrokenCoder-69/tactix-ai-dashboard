@@ -1,0 +1,8 @@
+v1 tactic,final tactic,v1 P(win) %,v1 xG for,v1 xG against,note,final xG for,final xG against,final P(win) %
+T1: Baseline Possession,T1 Baseline possession,43.1,1.99,1.8,no marking,1.9853479007873076,1.2022218787312344,57.7
+T2: High Press + Mark Isco,T2 High press,45.4,2.0,1.69,Isco marking not measurable,2.1616620019516812,0.9394471473061713,68.0
+T3: Mark Ronaldo,T3 Suppress Cristiano (proxy),58.0,1.99,1.09,v1 deleted 39.6 % of RM xG,1.9853479007873076,0.26950813323934775,82.6
+T4: High Press + Mark Both,T4 High press + suppress Cristiano,57.1,1.99,1.05,v1 incl. Ronaldo marking,2.1616620019516812,0.13762258013111192,88.3
+T5: Direct Long-Ball,T5 Direct long-ball,55.9,1.97,1.09,v1 ALSO marked Ronaldo,1.908873964717346,1.0220634447394843,60.8
+T6: Quick Counter-Attack,T6 Deep block + counter,53.9,1.86,1.11,v1 ALSO marked Ronaldo,1.719027855185264,1.490543366688584,44.8
+T7: High Press + Mark Ronaldo,T4 High press + suppress Cristiano,57.9,2.0,1.09,v1 incl. Ronaldo marking,2.1616620019516812,0.13762258013111192,88.3

@@ -1,0 +1,4 @@
+pre-match estimate,MAE_npxg,corr_with_actual
+Pre-match expectation (team × opponent × venue),0.5037392058428686,0.42124150864398346
+Naive: team's prior mean npxG,0.5343494756743267,0.329854687194376
+Naive: prior league mean npxG,0.5607378859385841,0.011634496443681763

@@ -1,0 +1,23 @@
+group,metric,value,league_mean,rank,verdict
+Result,Points / match,2.3947368421052633,1.3789473684210527,1,Strength
+Attack,npxG,2.0143978479894735,1.1891780273619736,1,Strength
+Attack,Shots (non-penalty),15.394736842105264,11.935526315789474,2,Strength
+Attack,Box entries,25.789473684210527,14.80263157894737,1,Strength
+Attack,Final-third entries,73.0,47.17631578947369,1,Strength
+Attack,Key passes,11.263157894736842,8.532894736842106,2,Strength
+Attack,Counter npxG,0.12913628936842106,0.07885941355859105,2,Strength
+Attack,Set-piece xG (corner / FK ≤ 15 s),0.38038275113157893,0.28408460705315786,3,Strength
+Defence,npxG conceded,0.8395478358999999,1.1891780273619736,2,Strength
+Defence,Shots conceded,9.657894736842104,11.935526315789474,1,Strength
+Defence,Box entries conceded,10.342105263157896,14.80263157894737,1,Strength
+Defence,Final-third entries conceded,31.92105263157895,47.17631578947368,1,Strength
+Defence,Progressive actions conceded,36.89473684210526,52.27894736842105,1,Strength
+Defence,Counter npxG conceded,0.051780191973684206,0.07885941355859105,5,Strength
+Defence,Set-piece xG conceded (corner / FK ≤ 15 s),0.2361244047736842,0.28408460705315786,7,—
+Style,Pass share,0.6621145584648678,0.5,1,High
+Style,Directness,0.16996746897481838,0.26725261924619986,20,Low
+Style,Final-third width share,0.5091235333314775,0.6447332693314082,20,Low
+Style,PPDA,11.280680437424058,12.971830756888838,19,Low
+Style,Defensive-action height,53.271442615802336,50.38600789778601,2,High
+Style,Pressures per 100 opponent passes,36.073328294391395,32.1364736226315,4,High
+Style,Counter possessions,2.1578947368421053,1.7197368421052635,2,High

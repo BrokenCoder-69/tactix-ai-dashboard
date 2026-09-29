@@ -1,0 +1,2 @@
+matches suggested,matches regular,teams,advantage (npxGD vs expectation),CI low,CI high,permutation p,win rate suggested,win rate regular,points suggested,points regular,points advantage (within team),better-than-expected rate suggested,better-than-expected rate regular
+645,921,78,0.21819539153104267,0.1342194846453653,0.30233672061170347,0.0004997501249375312,0.40930232558139534,0.2985884907709012,1.5178294573643412,1.1465798045602607,0.15290933094990566,0.5674418604651162,0.4234527687296417

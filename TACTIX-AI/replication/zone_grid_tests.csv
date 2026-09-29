@@ -1,0 +1,17 @@
+part,test,question,estimate,CI low,CI high,p,pass
+Hold A,Hold A: High press → danger-zone denial,Does high press keep the opponent out of its danger zones?,0.0011576081978190776,1.836576126191072e-05,0.0022968506343762447,0.046489754146936416,True
+Hold A,Hold A: Possession control → danger-zone denial,Does possession control keep the opponent out of its danger zones?,-0.0005289288732820031,-0.0016861752524621422,0.0006283175058981358,0.36654463235650364,False
+Hold A,Hold A: Recommended plan → danger-zone denial,Does recommended plan keep the opponent out of its danger zones?,0.0005650717573650459,-0.0008648981472415444,0.0019950416619716363,0.434740732317818,False
+Hold B,Hold B: danger-zone denial → our chances,Is keeping them out of their danger zones linked to more chances for us?,0.005761547904702306,-0.021627404573695923,0.03315050038310054,0.6771998945011402,False
+Hold B,Hold B: danger-zone denial → our points,Is keeping them out of their danger zones linked to more points for us?,-0.011976703802209424,-0.06354924673134604,0.03959583912692719,0.6458603592352915,False
+Win A,Win A: High press → recoveries in their build-up zones,Does high press win the ball more often where they build up?,0.35595346569866193,0.2688429194142508,0.44306401198307305,1.6526331193718132e-12,True
+Win A,Win A: Possession control → recoveries in their build-up zones,Does possession control win the ball more often where they build up?,0.33847072248704424,0.2379643563961995,0.438977088577889,1.5228871132036526e-09,True
+Win A,Win A: Recommended plan → recoveries in their build-up zones,Does recommended plan win the ball more often where they build up?,0.4240681380165203,0.3133838940009463,0.5347523820320943,1.927435750159135e-11,True
+Counter A,Counter A: High press → counter-attack npxG,Does high press create more counter-attack chances?,-0.005211556151117119,-0.022600143897310045,0.01217703159507581,0.553295170986089,False
+Counter A,Counter A: Possession control → counter-attack npxG,Does possession control create more counter-attack chances?,-0.02712767526454034,-0.04795646344354294,-0.006298887085537736,0.011234496550799939,False
+Counter A,Counter A: Recommended plan → counter-attack npxG,Does recommended plan create more counter-attack chances?,-0.03014598393093273,-0.05298146187803837,-0.007310505983827091,0.010209039892185388,False
+Win B,Win B: recoveries in build-up zones → our chances,Is winning the ball where they build up linked to more chances for us?,0.015018526060930766,-0.012520859558005764,0.0425579116798673,0.2817394903907464,False
+Win B,Win B: recoveries in build-up zones → our points,Is winning the ball where they build up linked to more points for us?,-0.054468356923185954,-0.10764582247997642,-0.0012908913663954927,0.04479595278779832,False
+Suggested,Suggested vs regular → danger-zone denial,Does the suggested tactic produce more danger-zone denial than the regular one?,0.001433213655664095,0.00047878805758822175,0.0023803620137107756,,True
+Suggested,Suggested vs regular → recoveries in build-up zones,Does the suggested tactic produce more recoveries in build-up zones than the regular one?,0.3308708901097729,0.24112574701215123,0.42376723227075963,,True
+Suggested,Suggested vs regular → counter-attack npxG,Does the suggested tactic produce more counter-attack npxG than the regular one?,-0.005805747841123097,-0.023161740522209824,0.010141955989749341,,False

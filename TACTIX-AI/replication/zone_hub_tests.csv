@@ -1,0 +1,13 @@
+test,question,estimate,CI low,CI high,p,rule,pass
+A: High press → zone denial,Does pressing high increase zone denial?,-0.0003590442531649631,-0.0072670246530846605,0.006548936146754734,0.9180431641470003,"> 0, CI excl. 0",False
+A: Possession control → zone denial,Does keeping the ball increase zone denial?,0.0030694953878031912,-0.004927299096829893,0.011066289872436274,0.44797688980253547,"> 0, CI excl. 0",False
+A: Recommended plan → zone denial,Does High press + Possession control increase zone denial?,0.006353495618008402,-0.0018342531080455787,0.014541244344062383,0.12677710769186007,"> 0, CI excl. 0",False
+A: High press → hub disruption,Does pressing high increase hub disruption?,0.0029071678589708914,-0.005222750522376895,0.011037086240318678,0.47954366009160193,"> 0, CI excl. 0",False
+A: Possession control → hub disruption,Does keeping the ball increase hub disruption?,0.01623264424934021,0.007946121135264413,0.024519167363416007,0.0001858459983205222,"> 0, CI excl. 0",True
+A: Recommended plan → hub disruption,Does High press + Possession control increase hub disruption?,0.013004991707657532,0.004607739438076765,0.0214022439772383,0.002748369628036021,"> 0, CI excl. 0",True
+B: zone denial → our chances,Is zone denial (1 SD) linked to more chances for us?,-0.0002666193922789221,-0.02687596904803196,0.026342730263474112,0.9841731411542177,"> 0, CI excl. 0",False
+B: zone denial → our points,Is zone denial (1 SD) linked to more points for us?,-0.009782721107072317,-0.05550186810477147,0.03593642589062684,0.6719798807191403,"> 0, CI excl. 0",False
+B: hub disruption → our chances,Is hub disruption (1 SD) linked to more chances for us?,0.029906855332568063,0.006139545060984578,0.053674165604151544,0.01419968528684869,"> 0, CI excl. 0",True
+B: hub disruption → our points,Is hub disruption (1 SD) linked to more points for us?,0.025116936168973425,-0.023056564145901043,0.07329043648384789,0.30329656649600806,"> 0, CI excl. 0",False
+A: Suggested vs regular → zone denial,Does the suggested tactic produce more zone denial than the regular one?,0.0013887547303871365,-0.005475960505853545,0.00849881721557178,,"> 0, CI excl. 0",False
+A: Suggested vs regular → hub disruption,Does the suggested tactic produce more hub disruption than the regular one?,0.005708917081183576,-0.003564381910040213,0.014208699775671883,,"> 0, CI excl. 0",False

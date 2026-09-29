@@ -1,0 +1,7 @@
+﻿plan,spearman_fit_vs_output,spearman_fit_vs_team_points,spearman_usage_vs_team_points
+High press + Possession control,0.0219,0.3185,0.6852
+High press + Direct build-up,-0.0413,-0.3219,-0.2456
+Mid block + Possession control,0.0411,0.3525,0.476
+Mid block + Direct build-up,-0.0449,-0.3416,-0.3779
+Low block + Possession control,0.0867,0.3297,0.2274
+Low block + Direct build-up,-0.0625,-0.2795,-0.6471
